@@ -1,0 +1,1188 @@
+(tuber) fennel - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Angelica - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Annual alfalfa:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Annual clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Artichoke - fresh:
+  class: Leafy or stem vegetables
+  code: '211'
+  group: Vegetables and melons
+  subclass: Artichokes
+Asparagus - fresh:
+  class: Leafy or stem vegetables
+  code: '212'
+  group: Vegetables and melons
+  subclass: Asparagus
+Asparagus - industry:
+  class: Leafy or stem vegetables
+  code: '212'
+  group: Vegetables and melons
+  subclass: Asparagus
+Azalea:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Basil - fresh consumption:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Basil - industry:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Beetroot - fresh:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Beetroot - industry:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Begonias for the tuber:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Bell pepper - fresh:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Bell pepper - industry:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Black berries:
+  class: Berries
+  code: '345'
+  group: Fruit and nuts
+  subclass: Blueberries
+Black radish - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Black radish - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Blackberries:
+  class: Berries
+  code: '349'
+  group: Fruit and nuts
+  subclass: Other berries
+Blueberries:
+  class: Berries
+  code: '345'
+  group: Fruit and nuts
+  subclass: Blueberries
+Brewing barley:
+  class: Barley
+  code: '15'
+  group: Cereals
+Broad and field beans (not for human consumption):
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Broad and field beans (vicia faba) - fresh:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Broad and field beans (vicia faba) - industry:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Broccoli - fresh:
+  class: Leafy or stem vegetables
+  code: '214'
+  group: Vegetables and melons
+  subclass: Cauliflowers & broccoli
+Broccoli - industry:
+  class: Leafy or stem vegetables
+  code: '214'
+  group: Vegetables and melons
+  subclass: Cauliflowers & broccoli
+Brussels sprouts - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Brussels sprouts - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Buckwheat:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Butternut squashes - fresh:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Butternut squashes - industry:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Carrot (early) (consumption) - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '231'
+  group: Vegetables and melons
+  subclass: Carrots
+Carrot (early) (consumption) - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '231'
+  group: Vegetables and melons
+  subclass: Carrots
+Carrot (non-early) (consumption) - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '231'
+  group: Vegetables and melons
+  subclass: Carrots
+Carrot (non-early) (consumption) - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '231'
+  group: Vegetables and melons
+  subclass: Carrots
+Cauliflower - fresh:
+  class: Leafy or stem vegetables
+  code: '214'
+  group: Vegetables and melons
+  subclass: Cauliflowers & broccoli
+Cauliflower - industry:
+  class: Leafy or stem vegetables
+  code: '214'
+  group: Vegetables and melons
+  subclass: Cauliflowers & broccoli
+Celeriac - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Celeriac - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Celery - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Celery - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Celery leaves - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Celery leaves - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Chervil - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Chervil - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Chicory (coffee substitute):
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chicory (for the foliage) - fresh:
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chicory (for the foliage) - industry:
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chicory (force) - industry:
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chicory (forcery) - fresh:
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chicory (inulin):
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chicory root:
+  class: Leafy or stem vegetables
+  code: '217'
+  group: Vegetables and melons
+  subclass: Chicory
+Chinese cabbage - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Chinese cabbage - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Chives - fresh consumption:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Chives - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Chrysanthemums:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Cucumbers - fresh:
+  class: Fruit-bearing vegetables
+  code: '221'
+  group: Vegetables and melons
+  subclass: Cucumbers
+Cut flowers - roses:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Cut flowers other than roses < 5 years:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Cut flowers other than roses >= 5 years:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Cut plants < 5 years:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Cut plants >= 5 years:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Cutting rye:
+  class: Rye
+  code: '16'
+  group: Cereals
+Eggplants - fresh:
+  class: Fruit-bearing vegetables
+  code: '222'
+  group: Vegetables and melons
+  subclass: Eggplants
+Endive - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Endive - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Feed cabbage (leaf cabbage):
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Fennel (tuber) - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Festulolium:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Fiber flax (intended for fiber production):
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Fiber hemp (intended for fiber production):
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Field peas (not for human consumption):
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Flageolets (for the bean) - fresh:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Flageolets (for the bean) - industry:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Flower bulbs and tubers:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Flower bulbs and tubers, other than begonia:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Flower mixture:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Flower mixture for eag braak:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Flowering houseplants (kalanchoe, ...):
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Flowering shrubs:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Fodder beets:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Fodder carrots:
+  class: Root, bulb, or tuberous vegetables
+  code: '231'
+  group: Vegetables and melons
+  subclass: Carrots
+Fodder radish:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Fodder turnips:
+  class: Root, bulb, or tuberous vegetables
+  code: '232'
+  group: Vegetables and melons
+  subclass: Turnips
+Gooseberries:
+  class: Berries
+  code: '342'
+  group: Fruit and nuts
+  subclass: Gooseberries
+Grain corn:
+  class: Maize
+  code: '12'
+  group: Cereals
+Grapes:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Grass alfalfa:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Grass clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Grass herb mixture:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Grassland:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Green beans - fresh:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Green beans - industry:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Green beans/green beans - fresh:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Green celery - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Green celery - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Hazelnuts:
+  class: Nuts
+  code: '364'
+  group: Fruit and nuts
+  subclass: Hazelnuts
+Head lettuce - fresh:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Hemp other than fiber hemp:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Hemp other than fiber hemp (not for human consumption):
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Hop:
+  class: Beverage crops
+  code: '619'
+  group: Beverage and spice crops
+  subclass: Other beverage crops, n.e.c
+Iceberg lettuce - fresh:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Iceberg lettuce - industry:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Japanese oats:
+  class: Oats
+  code: '17'
+  group: Cereals
+Kale - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Kale - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Kiwi berry:
+  class: Berries
+  code: '343'
+  group: Fruit and nuts
+  subclass: Kiwi fruit
+Kohlrabi - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Kohlrabi - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Lamb's lettuce - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Lamb's lettuce - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Leek - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '235'
+  group: Vegetables and melons
+  subclass: Leeks & other alliaceous vegetables
+Leek - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '235'
+  group: Vegetables and melons
+  subclass: Leeks & other alliaceous vegetables
+Lettuce - industry:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Lupins:
+  class: Lupins
+  code: '76'
+  group: Leguminous crops
+Medicinal and aromatic plants and herbs:
+  class: Medicinal, aromatic, pesticidal, or similar crops
+  code: '931'
+  group: Other crops
+  subclass: Temporary medicinal, etc. crops
+Millet:
+  class: Millets
+  code: '18'
+  group: Cereals
+Miscanthus:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Mixed cultivation of other cereals and leguminous plants (e.g. peas and barley:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Mixed cultivation of winter wheat or triticale and leguminous plants:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Mixture of grass and leguminous plants (other than grass clover or g:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Mixture of grass and leguminous plants (other than grass clover):
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Mixture of legumes:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Mushrooms (shed):
+  class: Mushrooms and truffles
+  code: '24'
+  group: Vegetables and melons
+Natural grassland with minimum activity:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Natural grassland with no minimum activity:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Non-edible horticultural crops:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Oil flax (no fiber flax):
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Onions (early) - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Onions (early) - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Onions (non-early) - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Onions (not early) - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Other alternative lettuce varieties - fresh:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Other alternative lettuce varieties - industry:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Other annual fruit crops:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Other berries:
+  class: Berries
+  code: '349'
+  group: Fruit and nuts
+  subclass: Other berries
+Other fodder crops:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Other grains (e.g. mixed wheat):
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Other herbs - fresh:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Other herbs - industry:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Other leguminous green cover plants:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Other non-woody ornamental plants:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Other oilseeds:
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+Other perennial fruit crops:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Other vegetables - fresh:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Other vegetables - industry:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Parsley - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Parsley - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Parsley root - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Parsnip - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Parsnip - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Peas (other than dry harvested) - fresh:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Peas (other than dry harvested) - industry:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Perennial alfalfa:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Perennial clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Perennial fruit crops (apple):
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Perennial fruit crops (peach):
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Perennial fruit crops (pear):
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Perennial fruit crops (plum):
+  class: Pome fruits and stone fruits
+  code: '356'
+  group: Fruit and nuts
+  subclass: Plums and sloes
+Perennial fruit crops (sour cherry):
+  class: Pome fruits and stone fruits
+  code: '353'
+  group: Fruit and nuts
+  subclass: Cherries & sour cherries
+Perennial fruit crops (sweet cherry, low stem):
+  class: Pome fruits and stone fruits
+  code: '353'
+  group: Fruit and nuts
+  subclass: Cherries & sour cherries
+Perennial fruit crops (sweet cherry, standard):
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Perennial fruit crops standard (apple):
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Perennial fruit crops standard (pear):
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Perennials:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Phacelia:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Planting material and propagating material of non-leguminous vegetables:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Planting material of leguminous vegetables:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Pot chrysanthemums:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Potatoes (early, harvest after 19/6):
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Potatoes (first, harvest before 20/6):
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Potatoes (not early):
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Potatoes (planned harvest for 1/9):
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Potatoes (planned harvest from 1/9):
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Potatoes (seed potatoes):
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Propagating material vines:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Pumpkins - fresh:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Pumpkins - industry:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Quinoa:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Radish - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Raspberries:
+  class: Berries
+  code: '344'
+  group: Fruit and nuts
+  subclass: Raspberries
+Red cabbage - fresh:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Red cabbage - industry:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Red clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Redcurrant:
+  class: Berries
+  code: '341'
+  group: Fruit and nuts
+  subclass: Currants
+Rhubarb - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Rhubarb - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Rocket salad - arugula - fresh:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Rocket salad - arugula - industry:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Rose boots:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Salsify - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Salsify - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Savoy cabbage - fresh:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Savoy cabbage - industry:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Seed cereals:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Seed grasses:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Seed oil and fiber plants:
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+Seed vegetables:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Shallots - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Shallots - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Silo corn:
+  class: Maize
+  code: '12'
+  group: Cereals
+Sorghum:
+  class: Sorghum
+  code: '14'
+  group: Cereals
+Soybeans:
+  class: Soya beans
+  code: '41'
+  group: Oilseed crops
+Spelt:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Spinach - fresh:
+  class: Leafy or stem vegetables
+  code: '216'
+  group: Vegetables and melons
+  subclass: Spinach
+Spinach - industry:
+  class: Leafy or stem vegetables
+  code: '216'
+  group: Vegetables and melons
+  subclass: Spinach
+Standard green beans/green beans - industry:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Strawberries:
+  class: Berries
+  code: '346'
+  group: Fruit and nuts
+  subclass: Strawberries
+Strawberry plants:
+  class: Berries
+  code: '346'
+  group: Fruit and nuts
+  subclass: Strawberries
+String beans - fresh:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+String beans - industry:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Sudan grass:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Sugar beets:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Summer barley:
+  class: Barley
+  code: '15'
+  group: Cereals
+Summer oats:
+  class: Oats
+  code: '17'
+  group: Cereals
+Summer rapeseed:
+  class: Other temporary oilseed crops
+  code: '435'
+  group: Oilseed crops
+  subclass: Rapeseed
+Summer rye:
+  class: Rye
+  code: '16'
+  group: Cereals
+Summer wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Sunflower seeds:
+  class: Other temporary oilseed crops
+  code: '438'
+  group: Oilseed crops
+  subclass: Sunflower
+Sweet lupins:
+  class: Lupins
+  code: '76'
+  group: Leguminous crops
+Sweet potato:
+  class: Sweet potatoes
+  code: '52'
+  group: Root/tuber crops with high starch or inulin content
+Tagetes (marigold):
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Tobacco:
+  class: Tobacco
+  code: '96'
+  group: Other crops
+Tomatoes - fresh:
+  class: Fruit-bearing vegetables
+  code: '223'
+  group: Vegetables and melons
+  subclass: Tomatoes
+Tree cultivation - fruit plants:
+  class: Pome fruits and stone fruits
+  code: '359'
+  group: Fruit and nuts
+  subclass: Other pome fruits and stone fruits, n.e.c
+Triticale:
+  class: Oats
+  code: '17'
+  group: Cereals
+Turf:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Turnip - fresh:
+  class: Root, bulb, or tuberous vegetables
+  code: '232'
+  group: Vegetables and melons
+  subclass: Turnips
+Turnip - industry:
+  class: Root, bulb, or tuberous vegetables
+  code: '232'
+  group: Vegetables and melons
+  subclass: Turnips
+Unsown arable land:
+  class: Fallow land
+  code: '98'
+  group: Other crops
+Vetch:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Vine plantations:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Vines:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Walnuts:
+  class: Nuts
+  code: '366'
+  group: Fruit and nuts
+  subclass: Walnuts
+White cabbage - fresh:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+White cabbage - industry:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Wild cabbage fresh:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Wild cabbage industry:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Winter barley:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter oats:
+  class: Oats
+  code: '17'
+  group: Cereals
+Winter rapeseed:
+  class: Other temporary oilseed crops
+  code: '435'
+  group: Oilseed crops
+  subclass: Rapeseed
+Winter rye:
+  class: Rye
+  code: '16'
+  group: Cereals
+Winter wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Winter wheat or triticale seed:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Winter-flowering semi-shrubs:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Winter-hardy ornamental plants:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Yellow mustard:
+  class: Other temporary oilseed crops
+  code: '433'
+  group: Oilseed crops
+  subclass: Mustard
+Young plants for floriculture:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Zucchini - fresh:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Zucchini - industry:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds

@@ -1,0 +1,165 @@
+ICC:
+  Cereals:
+    - Wheat
+    - Maize
+    - Rice
+    - Sorghum
+    - Barley
+    - Rye
+    - Oats
+    - Millets
+    - Other cereals, n.e.c:
+        - Mixed cereals
+        - Other
+  Vegetables and melons:
+    - Leafy or stem vegetables:
+      - Artichokes
+      - Asparagus
+      - Cabbages
+      - Cauliflowers & broccoli
+      - Lettuce
+      - Spinach
+      - Chicory
+      - Other leafy or stem vegetables, n.e.c
+    - Fruit-bearing vegetables:
+      - Cucumbers
+      - Eggplants
+      - Tomatoes
+      - Watermelons
+      - Cantaloupes and other melons
+      - Pumpkin, squash and gourds
+      - Other fruit-bearing vegetables, n.e.c
+    - Root, bulb, or tuberous vegetables:
+      - Carrots
+      - Turnips
+      - Garlic
+      - Onions
+      - Leeks & other alliaceous vegetables
+      - Other root, bulb, or tuberous vegetables, n.e.c
+    - Mushrooms and truffles
+    - Vegetables, n.e.c
+  Fruit and nuts:
+    - Tropical and subtropical fruits:
+        - Avocados
+        - Bananas & plantains
+        - Dates
+        - Figs
+        - Mangoes
+        - Papayas
+        - Pineapples
+        - Other tropical and subtropical fruits, n.e.c
+    - Citrus fruit:
+        - Grapefruit & pomelo
+        - Lemons and Limes
+        - Oranges
+        - Tangerines, mandarins, clementines
+        - Other citrus fruit, n.e.c
+    - Grapes
+    - Berries:
+        - Currants
+        - Gooseberries
+        - Kiwi fruit
+        - Raspberries
+        - Blueberries
+        - Strawberries
+        - Other berries
+    - Pome fruits and stone fruits:
+        - Apples
+        - Apricots
+        - Cherries & sour cherries
+        - Peaches & nectarines
+        - Pears & quinces
+        - Plums and sloes
+        - Other pome fruits and stone fruits, n.e.c
+    - Nuts:
+        - Almonds
+        - Cashew nuts
+        - Chestnuts
+        - Hazelnuts
+        - Pistachios
+        - Walnuts
+        - Other nuts n.e.c
+    - Other fruits, n.e.c
+  Oilseed crops:
+    - Soya beans
+    - Groundnuts
+    - Other temporary oilseed crops:
+        - Castor bean
+        - Linseed
+        - Mustard
+        - Niger seed
+        - Rapeseed
+        - Safflower
+        - Sesame
+        - Sunflower
+        - Other temporary oilseed crops, n.e.c
+    - Permanent oilseed crops:
+        - Coconuts
+        - Olives
+        - Oil palms
+        - Other oleaginous fruits, n.e.c
+  Root/tuber crops with high starch or inulin content:
+    - Potatoes
+    - Sweet potatoes
+    - Cassava
+    - Yams
+    - Other root & tubers, n.e.c
+  Beverage and spice crops:
+    - Beverage crops:
+        - Coffee
+        - Tea
+        - Mate
+        - Cocoa
+        - Other beverage crops, n.e.c
+    - Spice crops:
+        - Temporary spice crops:
+            - Chilies & peppers
+            - Anise, badian, and fennel
+            - Other temporary spice crops, n.e.c
+        - Permanent spice crops:
+            - Pepper
+            - Nutmeg, mace, cardamoms
+            - Cloves
+            - Ginger
+            - Cinnamon
+            - Vanilla
+            - Other permanent spice crops, n.e.c
+  Leguminous crops:
+    - Beans
+    - Broad beans
+    - Chick peas
+    - Cow peas
+    - Lentils
+    - Lupins
+    - Peas
+    - Pigeon peas
+    - Leguminous crops, n.e.c
+  Sugar crops:
+    - Sugar beet
+    - Sugar cane
+    - Sweet sorghum
+    - Other sugar crops n.e.c
+  Other crops:
+    - Grasses and other fodder crops:
+        - Temporary grass crops
+        - Permanent grass crops
+    - Fibre crops:
+        - Temporary fibre crops:
+            - Cotton
+            - Jute, kenaf, and other similar crops
+            - Flax, hemp, and other similar products
+            - Other temporary fibre crops
+        - Permanent fibre crops
+    - Medicinal, aromatic, pesticidal, or similar crops:
+        - Temporary medicinal, etc. crops
+        - Permanent medicinal, etc. crops
+    - Rubber
+    - Flower crops:
+        - Temporary flower crops
+        - Permanent flower crops
+    - Tobacco
+    - Other crops subclass:
+        - Other crops - temporary
+        - Other crops - permanent
+    - Fallow land
+

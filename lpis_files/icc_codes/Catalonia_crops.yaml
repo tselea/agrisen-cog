@@ -1,0 +1,699 @@
+Agrostis:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Alfals:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Almond trees:
+  class: Nuts
+  code: '361'
+  group: Fruit and nuts
+  subclass: Almonds
+Apples:
+  class: Pome fruits and stone fruits
+  code: '351'
+  group: Fruit and nuts
+  subclass: Apples
+Apricots:
+  class: Pome fruits and stone fruits
+  code: '352'
+  group: Fruit and nuts
+  subclass: Apricots
+Aromatic spices herbaceous:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Arrhenatherum:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Artichoke:
+  class: Leafy or stem vegetables
+  code: '211'
+  group: Vegetables and melons
+  subclass: Artichokes
+Asparagus:
+  class: Leafy or stem vegetables
+  code: '212'
+  group: Vegetables and melons
+  subclass: Asparagus
+Barley:
+  class: Barley
+  code: '15'
+  group: Cereals
+Basil:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Bean:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Beans:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Beet:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Blueberries:
+  class: Berries
+  code: '345'
+  group: Fruit and nuts
+  subclass: Blueberries
+Borage:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Boysac or calendula:
+  class: Beverage crops
+  code: '612'
+  group: Beverage and spice crops
+  subclass: Tea
+Cabbage and cauliflower:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Camelina:
+  class: Beverage crops
+  code: '612'
+  group: Beverage and spice crops
+  subclass: Tea
+Carob:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Carrot:
+  class: Root, bulb, or tuberous vegetables
+  code: '231'
+  group: Vegetables and melons
+  subclass: Carrots
+Celery:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Chamomilla:
+  class: Beverage crops
+  code: '612'
+  group: Beverage and spice crops
+  subclass: Tea
+Cherry plants:
+  class: Pome fruits and stone fruits
+  code: '353'
+  group: Fruit and nuts
+  subclass: Cherries & sour cherries
+Chestnut woods:
+  class: Nuts
+  code: '363'
+  group: Fruit and nuts
+  subclass: Chestnuts
+Chickpeas:
+  class: Chick peas
+  code: '73'
+  group: Leguminous crops
+Clementine:
+  class: Citrus fruit
+  code: '324'
+  group: Fruit and nuts
+  subclass: Tangerines, mandarins, clementines
+Clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Common cane:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Coriander:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Corn:
+  class: Maize
+  code: '12'
+  group: Cereals
+Courgette:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Cucumber:
+  class: Fruit-bearing vegetables
+  code: '221'
+  group: Vegetables and melons
+  subclass: Cucumbers
+Cultivation of forest fruits:
+  class: Berries
+  code: '349'
+  group: Fruit and nuts
+  subclass: Other berries
+Currants:
+  class: Berries
+  code: '341'
+  group: Fruit and nuts
+  subclass: Currants
+Dactyl (dactylis):
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Dill:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Durum wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Eggplant:
+  class: Fruit-bearing vegetables
+  code: '222'
+  group: Vegetables and melons
+  subclass: Eggplants
+Endive, ecarole and chicory:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Fallow:
+  class: Fallow land
+  code: '98'
+  group: Other crops
+Fennel:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Fenugreek:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Fescue:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Fig:
+  class: Tropical and subtropical fruits
+  code: '314'
+  group: Fruit and nuts
+  subclass: Figs
+Flax:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Flowers and ornaments:
+  class: Flower crops
+  code: '951'
+  group: Other crops
+  subclass: Temporary flower crops
+Grapefruit or grapefruit:
+  class: Citrus fruit
+  code: '321'
+  group: Fruit and nuts
+  subclass: Grapefruit & pomelo
+Grass pea:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Grass pea or square pea:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Hazelnut grower:
+  class: Nuts
+  code: '364'
+  group: Fruit and nuts
+  subclass: Hazelnuts
+Hemp:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Herbs (legues):
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Herbs (legums):
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Hops:
+  class: Beverage crops
+  code: '619'
+  group: Beverage and spice crops
+  subclass: Other beverage crops, n.e.c
+Hybrid mandarin:
+  class: Citrus fruit
+  code: '324'
+  group: Fruit and nuts
+  subclass: Tangerines, mandarins, clementines
+Hyssop:
+  class: Beverage crops
+  code: '612'
+  group: Beverage and spice crops
+  subclass: Tea
+Japanese medlar:
+  class: Citrus fruit
+  code: '329'
+  group: Fruit and nuts
+  subclass: Other citrus fruit, n.e.c
+Khaki:
+  class: Tropical and subtropical fruits
+  code: '319'
+  group: Fruit and nuts
+  subclass: Other tropical and subtropical fruits, n.e.c
+Khorasan wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Kiwi fruit:
+  class: Berries
+  code: '343'
+  group: Fruit and nuts
+  subclass: Kiwi fruit
+Lavender or lavender:
+  class: Medicinal, aromatic, pesticidal, or similar crops
+  code: '931'
+  group: Other crops
+  subclass: Temporary medicinal, etc. crops
+Lemon tree:
+  class: Citrus fruit
+  code: '322'
+  group: Fruit and nuts
+  subclass: Lemons and Limes
+Lentils:
+  class: Lentils
+  code: '75'
+  group: Leguminous crops
+Lettuce:
+  class: Leafy or stem vegetables
+  code: '215'
+  group: Vegetables and melons
+  subclass: Lettuce
+Lupin:
+  class: Lupins
+  code: '76'
+  group: Leguminous crops
+Mandarin:
+  class: Citrus fruit
+  code: '324'
+  group: Fruit and nuts
+  subclass: Tangerines, mandarins, clementines
+Marduix:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Melissa or orange:
+  class: Citrus fruit
+  code: '323'
+  group: Fruit and nuts
+  subclass: Oranges
+Melon:
+  class: Fruit-bearing vegetables
+  code: '225'
+  group: Vegetables and melons
+  subclass: Cantaloupes and other melons
+Mestall:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Millet:
+  class: Millets
+  code: '18'
+  group: Cereals
+Mint:
+  class: Beverage crops
+  code: '612'
+  group: Beverage and spice crops
+  subclass: Tea
+Mushrooms:
+  class: Mushrooms and truffles
+  code: '24'
+  group: Vegetables and melons
+Nashi pear:
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Nectarines:
+  class: Pome fruits and stone fruits
+  code: '354'
+  group: Fruit and nuts
+  subclass: Peaches & nectarines
+Oats:
+  class: Oats
+  code: '17'
+  group: Cereals
+Olives:
+  class: Permanent oilseed crops
+  code: '442'
+  group: Oilseed crops
+  subclass: Olives
+Onions, calcots, leeks and garlic:
+  class: Root, bulb, or tuberous vegetables
+  code: '234'
+  group: Vegetables and melons
+  subclass: Onions
+Onobrychis:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Orange:
+  class: Citrus fruit
+  code: '323'
+  group: Fruit and nuts
+  subclass: Oranges
+Other fruits:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Parsley:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Peach:
+  class: Pome fruits and stone fruits
+  code: '354'
+  group: Fruit and nuts
+  subclass: Peaches & nectarines
+Peaches/nectarins:
+  class: Pome fruits and stone fruits
+  code: '354'
+  group: Fruit and nuts
+  subclass: Peaches & nectarines
+Peanut:
+  class: Groundnuts
+  code: '42'
+  group: Oilseed crops
+Pear/apple trees:
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Pears:
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Peas:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Peas and barley:
+  class: Other crops subclass
+  code: '991'
+  group: Other crops
+  subclass: Other crops - temporary
+Peas and oats:
+  class: Other crops subclass
+  code: '991'
+  group: Other crops
+  subclass: Other crops - temporary
+Pepper:
+  class: Spice crops
+  code: '6221'
+  group: Beverage and spice crops
+  order: Pepper
+  subclass: Permanent spice crops
+Phalaris:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Pistachio or pistachou:
+  class: Nuts
+  code: '365'
+  group: Fruit and nuts
+  subclass: Pistachios
+Poa:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Pomegranate:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Potato:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Prunes:
+  class: Pome fruits and stone fruits
+  code: '356'
+  group: Fruit and nuts
+  subclass: Plums and sloes
+Pumpkin:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Quince:
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Quinoa:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Radish:
+  class: Root, bulb, or tuberous vegetables
+  code: '239'
+  group: Vegetables and melons
+  subclass: Other root, bulb, or tuberous vegetables, n.e.c
+Rapeseed:
+  class: Other temporary oilseed crops
+  code: '435'
+  group: Oilseed crops
+  subclass: Rapeseed
+Raspberry:
+  class: Berries
+  code: '344'
+  group: Fruit and nuts
+  subclass: Raspberries
+Red valerian or mulberry:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Rice:
+  class: Rice
+  code: '13'
+  group: Cereals
+Romani:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Rye:
+  class: Rye
+  code: '16'
+  group: Cereals
+Ryegrass:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Saffron:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+Sage:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Saint John's wort:
+  class: Medicinal, aromatic, pesticidal, or similar crops
+  code: '931'
+  group: Other crops
+  subclass: Temporary medicinal, etc. crops
+Sajolida:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Satsuma mandarin:
+  class: Citrus fruit
+  code: '324'
+  group: Fruit and nuts
+  subclass: Tangerines, mandarins, clementines
+Soft wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Sorghum:
+  class: Sorghum
+  code: '14'
+  group: Cereals
+Soy:
+  class: Soya beans
+  code: '41'
+  group: Oilseed crops
+Soya:
+  class: Soya beans
+  code: '41'
+  group: Oilseed crops
+Spelt:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Spinach:
+  class: Leafy or stem vegetables
+  code: '216'
+  group: Vegetables and melons
+  subclass: Spinach
+Strawberry:
+  class: Berries
+  code: '346'
+  group: Fruit and nuts
+  subclass: Strawberries
+Sulla or enclose:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Sulla or enclova:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Sunflower:
+  class: Other temporary oilseed crops
+  code: '438'
+  group: Oilseed crops
+  subclass: Sunflower
+Sweet snaps don't sie:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Swiss chard:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Table grapes:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Thyme:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Timothy:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Tobacco:
+  class: Tobacco
+  code: '96'
+  group: Other crops
+Tomato:
+  class: Fruit-bearing vegetables
+  code: '223'
+  group: Vegetables and melons
+  subclass: Tomatoes
+Triticale:
+  class: Oats
+  code: '17'
+  group: Cereals
+Tritordeum:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Truffle:
+  class: Mushrooms and truffles
+  code: '24'
+  group: Vegetables and melons
+Turin and chinese cabbage:
+  class: Leafy or stem vegetables
+  code: '213'
+  group: Vegetables and melons
+  subclass: Cabbages
+Various fruits:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Vetch:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Vetch and barley:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Vetch and oats:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Vetch and triticale:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Vetch and wheat:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Vineyards:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Walnuts:
+  class: Nuts
+  code: '366'
+  group: Fruit and nuts
+  subclass: Walnuts
+Watercress:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Watermelon:
+  class: Fruit-bearing vegetables
+  code: '224'
+  group: Vegetables and melons
+  subclass: Watermelons
+Woody aromatic spices:
+  class: Spice crops
+  code: '6227'
+  group: Beverage and spice crops
+  order: Other permanent spice crops, n.e.c
+  subclass: Permanent spice crops
+clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops

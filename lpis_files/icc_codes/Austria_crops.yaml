@@ -1,0 +1,861 @@
+Alfalfa:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Alpine forage area:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Alternate meadow (egart, field pasture):
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Amaranth:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Apricts:
+  class: Pome fruits and stone fruits
+  code: '352'
+  group: Fruit and nuts
+  subclass: Apricots
+Bee feeding wasteland:
+  class: Other crops subclass
+  code: '992'
+  group: Other crops
+  subclass: Other crops - permanent
+Beet propagation:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Bitter lupine:
+  class: Lupins
+  code: '76'
+  group: Leguminous crops
+Buckwheat:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Bush berries:
+  class: Berries
+  code: '345'
+  group: Fruit and nuts
+  subclass: Blueberries
+Canary seed:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Cherries:
+  class: Pome fruits and stone fruits
+  code: '353'
+  group: Fruit and nuts
+  subclass: Cherries & sour cherries
+Cherry:
+  class: Pome fruits and stone fruits
+  code: '353'
+  group: Fruit and nuts
+  subclass: Cherries & sour cherries
+Chickpeas:
+  class: Chick peas
+  code: '73'
+  group: Leguminous crops
+Clover:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Clover / field vegetables:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Clover grass:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Clover grass / field vegetables:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Common vetch:
+  class: Leguminous crops, n.e.c
+  code: '79'
+  group: Leguminous crops
+Corn / beetle beans in separate rows:
+  class: Maize
+  code: '12'
+  group: Cereals
+Corn corn-cob-mix (ccm):
+  class: Maize
+  code: '12'
+  group: Cereals
+Corn corn-cob-mix (ccm) / field vegetables:
+  class: Maize
+  code: '12'
+  group: Cereals
+Durum wheat (durum):
+  class: Wheat
+  code: '11'
+  group: Cereals
+Durum wheat (durum) / buckwheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Durum wheat (durum) / field vegetables:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Durum wheat / buckwheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Elderberry:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Elephant grass (china reed, miscanthus sinensis):
+  class: Other crops subclass
+  code: '991'
+  group: Other crops
+  subclass: Other crops - temporary
+Emmer or einkorn (summer):
+  class: Wheat
+  code: '11'
+  group: Cereals
+Emmer or einkorn (summer) / field vegetables:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Emmer or einkorn (winter) / field vegetables:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Emmer or einkorn (wintering):
+  class: Wheat
+  code: '11'
+  group: Cereals
+Energy grass:
+  class: Other crops subclass
+  code: '991'
+  group: Other crops
+  subclass: Other crops - temporary
+Fallow land:
+  class: Fallow land
+  code: '98'
+  group: Other crops
+Feed potatoes:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Field beans (puff beans):
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Field beans - grain mixture:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Field beans / field vegetables:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Field beans / peas mixture:
+  class: Beans
+  code: '71'
+  group: Leguminous crops
+Field pea:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Field vegetables fresh market and processing multicultural:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Field vegetables multicultural:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Field vegetables pickles:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Field vegetables processing multicultural:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Field vegetables processing single culture:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Field vegetables single culture:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Field vegetables without harvest:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Flax:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Flax (fiber linen) for fiber production:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Flowers and ornamental:
+  class: Flower crops
+  code: '95'
+  group: Other crops
+Flowers and ornamental plants in foil tunnel:
+  class: Flower crops
+  code: '95'
+  group: Other crops
+Flowers and ornamental plants in the greenhouse:
+  class: Flower crops
+  code: '95'
+  group: Other crops
+Food beet (black beet, burgundy beet):
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Forage grasses:
+  class: Grasses and other fodder crops
+  code: '91'
+  group: Other crops
+Forage grasses / field vegetables:
+  class: Grasses and other fodder crops
+  code: '91'
+  group: Other crops
+Fruit in foil tunnel:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Fruit in the greenhouse:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Fruit/hops soil health:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Grain corn:
+  class: Maize
+  code: '12'
+  group: Cereals
+Grain peas:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Grain peas / field vegetables:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Grass meadow:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Green corn:
+  class: Maize
+  code: '12'
+  group: Cereals
+Green cut rye / sunflower:
+  class: Rye
+  code: '16'
+  group: Cereals
+Green cut ryes:
+  class: Rye
+  code: '16'
+  group: Cereals
+Green cut ryes / sudan grass:
+  class: Rye
+  code: '16'
+  group: Cereals
+Green waste rye / corn:
+  class: Other cereals, n.e.c
+  code: '191'
+  group: Cereals
+  subclass: Mixed cereals
+Green waste rye / millet:
+  class: Other cereals, n.e.c
+  code: '191'
+  group: Cereals
+  subclass: Mixed cereals
+Hemp:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Hop:
+  class: Beverage crops
+  code: '619'
+  group: Beverage and spice crops
+  subclass: Other beverage crops, n.e.c
+Industrial potatoes:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Johannis herbs:
+  class: Spice crops
+  code: '621'
+  group: Beverage and spice crops
+  subclass: Temporary spice crops
+Lentil:
+  class: Lentils
+  code: '75'
+  group: Leguminous crops
+Medicinal plants:
+  class: Medicinal, aromatic, pesticidal, or similar crops
+  code: '931'
+  group: Other crops
+  subclass: Temporary medicinal, etc. crops
+Medicinal plants in the foil tunnel:
+  class: Medicinal, aromatic, pesticidal, or similar crops
+  code: '931'
+  group: Other crops
+  subclass: Temporary medicinal, etc. crops
+Milk thistles:
+  code: '6'
+  group: Beverage and spice crops
+Millet:
+  class: Millets
+  code: '18'
+  group: Cereals
+Millet / field vegetables:
+  class: Millets
+  code: '18'
+  group: Cereals
+Mixed silphie:
+  class: Flower crops
+  code: '952'
+  group: Other crops
+  subclass: Permanent flower crops
+Monster grain / field vegetables:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Mow meadow three and more uses:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Mow meadow two uses:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Mower meadows:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Mustard:
+  class: Other temporary oilseed crops
+  code: '433'
+  group: Oilseed crops
+  subclass: Mustard
+Nectarines:
+  class: Pome fruits and stone fruits
+  code: '354'
+  group: Fruit and nuts
+  subclass: Peaches & nectarines
+New potatoes:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+New potatoes / buckwheat:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+New potatoes / corn:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+New potatoes / field vegetables:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Nuts (walnuts, hazelnuts, ...):
+  class: Nuts
+  code: '36'
+  group: Fruit and nuts
+Oil (not for fiber):
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+Oil flax (not for fiber) / field vegetables:
+  class: Fibre crops
+  code: '9213'
+  group: Other crops
+  order: Flax, hemp, and other similar products
+  subclass: Temporary fibre crops
+Oil pumpkin:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Oilradish:
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+One mow meadow:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Other arable areas:
+  class: Fallow land
+  code: '98'
+  group: Other crops
+Other arable crops:
+  class: Fallow land
+  code: '98'
+  group: Other crops
+Other forage:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Other fruit:
+  class: Other fruits, n.e.c
+  code: '39'
+  group: Fruit and nuts
+Other grassland areas:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Other hat grounds:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Other oil fruits (saflor, ...):
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+Other permanent crops:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Other special cultivation areas:
+  class: Fallow land
+  code: '98'
+  group: Other crops
+Other wine areas:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Pasture land:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Peaches:
+  class: Pome fruits and stone fruits
+  code: '354'
+  group: Fruit and nuts
+  subclass: Peaches & nectarines
+Peas - cereal mixture:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Peas - cereal mixture / buckwheat:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Peas - grain mix / field vegetables:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Permanent pasture:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Phacelia:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Plums:
+  class: Pome fruits and stone fruits
+  code: '356'
+  group: Fruit and nuts
+  subclass: Plums and sloes
+Poppy:
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+Potatoes:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Potatoes / field vegetables:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Pruning vineyard:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Pumpkin:
+  class: Fruit-bearing vegetables
+  code: '226'
+  group: Vegetables and melons
+  subclass: Pumpkin, squash and gourds
+Quinces:
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Quinoa:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Roll turf:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Sainfoin:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Seasoning plants:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Seasoning plants in the greenhouse:
+  class: Grasses and other fodder crops
+  code: '911'
+  group: Other crops
+  subclass: Temporary grass crops
+Seed maize propagation:
+  class: Maize
+  code: '12'
+  group: Cereals
+Seed potatoes:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Silomais:
+  class: Maize
+  code: '12'
+  group: Cereals
+Sorghum:
+  class: Sorghum
+  code: '14'
+  group: Cereals
+Soybeans:
+  class: Soya beans
+  code: '41'
+  group: Oilseed crops
+Soybeans / vets in separate rows:
+  class: Soya beans
+  code: '41'
+  group: Oilseed crops
+Spelled spelled:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Spice fennel:
+  class: Leafy or stem vegetables
+  code: '219'
+  group: Vegetables and melons
+  subclass: Other leafy or stem vegetables, n.e.c
+Spice plants in the foil tunnel:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Spring barley:
+  class: Barley
+  code: '15'
+  group: Cereals
+Spring barley / buckwheat:
+  class: Barley
+  code: '15'
+  group: Cereals
+Spring barley / field vegetables:
+  class: Barley
+  code: '15'
+  group: Cereals
+Starch industrial potatoes:
+  class: Potatoes
+  code: '51'
+  group: Root/tuber crops with high starch or inulin content
+Strawberries:
+  class: Berries
+  code: '346'
+  group: Fruit and nuts
+  subclass: Strawberries
+Strawberries / field vegetables:
+  class: Berries
+  code: '346'
+  group: Fruit and nuts
+  subclass: Strawberries
+Sudan grass:
+  class: Sorghum
+  code: '14'
+  group: Cereals
+Sugar beet:
+  class: Sugar beet
+  code: '81'
+  group: Sugar crops
+Summer cumin:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Summer grain / field vegetables:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Summer masli:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Summer oats:
+  class: Oats
+  code: '17'
+  group: Cereals
+Summer oats / field vegetables:
+  class: Oats
+  code: '17'
+  group: Cereals
+Summer oats / food beet:
+  class: Oats
+  code: '17'
+  group: Cereals
+Summer rapes:
+  class: Other temporary oilseed crops
+  code: '435'
+  group: Oilseed crops
+  subclass: Rapeseed
+Summer rye:
+  class: Rye
+  code: '16'
+  group: Cereals
+Summer rye / field vegetables:
+  class: Rye
+  code: '16'
+  group: Cereals
+Summer tritical / field vegetables:
+  class: Oats
+  code: '17'
+  group: Cereals
+Summer wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Summer wheat / field vegetables:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Summertriticale:
+  class: Oats
+  code: '17'
+  group: Cereals
+Sunflowers:
+  class: Other temporary oilseed crops
+  code: '438'
+  group: Oilseed crops
+  subclass: Sunflower
+Sweet chestnuts:
+  class: Nuts
+  code: '363'
+  group: Fruit and nuts
+  subclass: Chestnuts
+Sweet corn:
+  class: Maize
+  code: '12'
+  group: Cereals
+Sweet corn / field vegetables:
+  class: Maize
+  code: '12'
+  group: Cereals
+Sweet lupins:
+  class: Lupins
+  code: '76'
+  group: Leguminous crops
+Table apples:
+  class: Pome fruits and stone fruits
+  code: '351'
+  group: Fruit and nuts
+  subclass: Apples
+Table pears:
+  class: Pome fruits and stone fruits
+  code: '355'
+  group: Fruit and nuts
+  subclass: Pears & quinces
+Topinambur:
+  class: Leafy or stem vegetables
+  code: '211'
+  group: Vegetables and melons
+  subclass: Artichokes
+Veet peas:
+  class: Peas
+  code: '77'
+  group: Leguminous crops
+Vegetables in foil tunnel:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Vegetables in the greenhouse:
+  class: Vegetables, n.e.c
+  code: '29'
+  group: Vegetables and melons
+Vicken-cereal mixture:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Vineyards:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Wasteland:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Wine:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Wine soil health:
+  class: Grapes
+  code: '33'
+  group: Fruit and nuts
+Winter barley:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley / buckwheat:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley / field vegetables:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley / forage grasses:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley/clover:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley/clover grass:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley/grain corn:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter barley/silomaize:
+  class: Barley
+  code: '15'
+  group: Cereals
+Winter cumin:
+  class: Spice crops
+  code: '6213'
+  group: Beverage and spice crops
+  order: Other temporary spice crops, n.e.c
+  subclass: Temporary spice crops
+Winter hairy vetch:
+  class: Grasses and other fodder crops
+  code: '912'
+  group: Other crops
+  subclass: Permanent grass crops
+Winter masnis:
+  class: Permanent oilseed crops
+  code: '442'
+  group: Oilseed crops
+  subclass: Olives
+Winter oats:
+  class: Oats
+  code: '17'
+  group: Cereals
+Winter poppies:
+  class: Other temporary oilseed crops
+  code: '439'
+  group: Oilseed crops
+  subclass: Other temporary oilseed crops, n.e.c
+Winter rape:
+  class: Other temporary oilseed crops
+  code: '435'
+  group: Oilseed crops
+  subclass: Rapeseed
+Winter rye:
+  class: Rye
+  code: '16'
+  group: Cereals
+Winter rye / field vegetables:
+  class: Rye
+  code: '16'
+  group: Cereals
+Winter spelled (gult):
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Winter spelled (gult) / field vegetables:
+  class: Other cereals, n.e.c
+  code: '19'
+  group: Cereals
+Winter triticale / food beet:
+  class: Oats
+  code: '17'
+  group: Cereals
+Winter turned:
+  class: Root, bulb, or tuberous vegetables
+  code: '232'
+  group: Vegetables and melons
+  subclass: Turnips
+Winter wheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Winter wheat / buckwheat:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Winter wheat / field vegetables:
+  class: Wheat
+  code: '11'
+  group: Cereals
+Wintertriticale:
+  class: Oats
+  code: '17'
+  group: Cereals
+Wintertriticale / field vegetables:
+  class: Oats
+  code: '17'
+  group: Cereals
+Wintertriticale / millet:
+  class: Oats
+  code: '17'
+  group: Cereals

@@ -1,11 +1,10 @@
 import argparse
 import os
-from pathlib import Path
 
+import geopandas as gpd
 import pandas as pd
 import yaml
 from pystac_client import Client
-import geopandas as gpd
 from shapely.geometry import box
 
 STAC_CATALOGUE_URL = 'https://earth-search.aws.element84.com/v0'

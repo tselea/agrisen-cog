@@ -1,0 +1,226 @@
+#Austria LPIS 2019, 2020
+crop_type:
+  20 JÄHRIGE STILLLEGUNG: 20 years of decommissioning
+  ACKERBOHNEN (PUFFBOHNEN): Field beans (puff beans)
+  ACKERBOHNEN (PUFFBOHNEN) / FELDGEMÜSE: Field beans / field vegetables
+  ACKERBOHNEN - GETREIDE GEMENGE: Field beans - grain mixture
+  ACKERBOHNEN / ERBSENGEMENGE: Field beans / peas mixture
+  ALMFUTTERFLÄCHE: Alpine forage area
+  AMARANTH: Amaranth
+  ANDERE DAUERKULTUREN: Other permanent crops
+  ANDERES OBST: Other fruit
+  BERGMÄHDER: Mower meadows
+  BIENENTRACHTBRACHE: Bee feeding wasteland
+  BITTERLUPINEN: Bitter lupine
+  BLUMEN UND ZIERPFLANZEN: Flowers and ornamental
+  BLUMEN UND ZIERPFLANZEN IM FOLIENTUNNEL: Flowers and ornamental plants in foil tunnel
+  BLUMEN UND ZIERPFLANZEN IM GEWÄCHSHAUS: Flowers and ornamental plants in the greenhouse
+  BUCHWEIZEN: Buckwheat
+  DAUERWEIDE: Permanent pasture
+  DURCHWACHSENE SILPHIE: Mixed silphie
+  EDELKASTANIEN: Sweet chestnuts
+  EINJÄHRIGE BAUMSCHULEN: Annual nurseries
+  EINMÄHDIGE WIESE: One mow meadow
+  ELEFANTENGRAS (CHINASCHILF, MISCANTHUS SINENSIS): Elephant grass (china reed, miscanthus
+    sinensis)
+  EMMER ODER EINKORN (SOMMERUNG): Emmer or einkorn (summer)
+  EMMER ODER EINKORN (SOMMERUNG) / FELDGEMÜSE: Emmer or einkorn (summer) / field vegetables
+  EMMER ODER EINKORN (WINTERUNG): Emmer or einkorn (wintering)
+  EMMER ODER EINKORN (WINTERUNG) / FELDGEMÜSE: Emmer or einkorn (winter) / field vegetables
+  ENERGIEGRAS: Energy grass
+  ENERGIEHOLZ OHNE ROBINIE: Energy wood without robinia
+  ENERGIEHOLZ ROBINIE: Energy wood robinia
+  ERBSEN - GETREIDE GEMENGE: Peas - cereal mixture
+  ERBSEN - GETREIDE GEMENGE / BUCHWEIZEN: Peas - cereal mixture / buckwheat
+  ERBSEN - GETREIDE GEMENGE / FELDGEMÜSE: Peas - grain mix / field vegetables
+  ERDBEEREN: Strawberries
+  ERDBEEREN / FELDGEMÜSE: Strawberries / field vegetables
+  ERSTAUFFORSTUNG: First afforestation
+  ERSTAUFFORSTUNG ALT: First afforestation alt
+  ESPARSETTE: Sainfoin
+  FELDGEMÜSE EINKULTURIG: Field vegetables single culture
+  FELDGEMÜSE EINLEGEGURKEN: Field vegetables pickles
+  FELDGEMÜSE FRISCHMARKT UND VERARBEITUNG MEHRKULTURIG: Field vegetables fresh market
+    and processing multicultural
+  FELDGEMÜSE MEHRKULTURIG: Field vegetables multicultural
+  FELDGEMÜSE OHNE ERNTE: Field vegetables without harvest
+  FELDGEMÜSE VERARBEITUNG EINKULTURIG: Field vegetables processing single culture
+  FELDGEMÜSE VERARBEITUNG MEHRKULTURIG: Field vegetables processing multicultural
+  FLACHS (FASERLEIN) ZUR FASERERZEUGUNG: Flax (fiber linen) for fiber production
+  FORST GENETISCHE RESSOURCEN: Forest genetic resources
+  FRÜHKARTOFFELN: New potatoes
+  FRÜHKARTOFFELN / BUCHWEIZEN: New potatoes / buckwheat
+  FRÜHKARTOFFELN / FELDGEMÜSE: New potatoes / field vegetables
+  FUTTERGRÄSER: Forage grasses
+  FUTTERGRÄSER / FELDGEMÜSE: Forage grasses / field vegetables
+  FUTTERKARTOFFELN: Feed potatoes
+  FUTTERRÜBEN (RUNKELRÜBEN, BURGUND KOHLRÜBEN): Food beet (black beet, burgundy beet)
+  GEMÜSE IM FOLIENTUNNEL: Vegetables in foil tunnel
+  GEMÜSE IM GEWÄCHSHAUS: Vegetables in the greenhouse
+  GEWÜRZFENCHEL: Spice fennel
+  GEWÜRZPFLANZEN: Seasoning plants
+  GEWÜRZPFLANZEN IM FOLIENTUNNEL: Spice plants in the foil tunnel
+  GEWÜRZPFLANZEN IM GEWÄCHSHAUS: Seasoning plants in the greenhouse
+  GINKGO: Ginkgo
+  GLÖZ GRABEN / UFERRANDSTREIFEN: GAEC Riparian strips
+  GLÖZ NATURDENKMAL FLÄCHE: GAEC Natural Monuments Area
+  GLÖZ STEINRIEGEL / STEINHAGE: GAEC Stone bar/stone hedge
+  GLÖZ TEICH / TÜMPEL: GAEC pond/pond
+  GRÜNBRACHE: Fallow land
+  GRÜNLANDBRACHE: Wasteland
+  GRÜNMAIS: Green corn
+  GRÜNSCHNITTROGGEN: Green cut ryes
+  GRÜNSCHNITTROGGEN / HIRSE: Green waste rye / millet
+  GRÜNSCHNITTROGGEN / MAIS: Green waste rye / corn
+  GRÜNSCHNITTROGGEN / SONNENBLUME: Green cut rye / sunflower
+  HANF: Hemp
+  HEILPFLANZEN: Medicinal plants
+  HEILPFLANZEN IM FOLIENTUNNEL: Medicinal plants in the foil tunnel
+  HIRSE: Millet
+  HIRSE / FELDGEMÜSE: Millet / field vegetables
+  HOLUNDER: Elderberry #from Elder
+  HOPFEN: Hop
+  HUTWEIDE: Pasture land #from Hat willow
+  JOHANNISKRAUT: Johannis herbs
+  KANARIENSAAT: Canary seed
+  KICHERERBSEN: Chickpeas
+  KIRSCHEN: Cherries
+  KLEE: Clover
+  KLEE / FELDGEMÜSE: Clover / field vegetables
+  KLEEGRAS: Clover grass
+  KLEEGRAS / FELDGEMÜSE: Clover grass / field vegetables
+  KÖRNERERBSEN: Grain peas
+  KÖRNERERBSEN / FELDGEMÜSE: Grain peas / field vegetables
+  KÖRNERMAIS: Grain corn
+  LEINDOTTER: Flax
+  LINSEN: Lentil #from Lenses
+  LSE FELDGEHÖLZ / BAUM- / GEBÜSCHGRUPPE: Lse field wood / tree / bush group
+  LSE HECKE / UFERGEHÖLZ: Lse hedge / river wood
+  LSE RAIN / BÖSCHUNG / TROCKENSTEINMAUER: Lse rain / slope / dry stone wall
+  LUZERNE: Alfalfa
+  MAIS / KÄFERBOHNEN IN GETRENNTEN REIHEN: Corn / beetle beans in separate rows
+  MAIS CORN-COB-MIX (CCM): Corn corn-cob-mix (ccm)
+  MAIS CORN-COB-MIX (CCM) / FELDGEMÜSE: Corn corn-cob-mix (ccm) / field vegetables
+  MARIENDISTELN: Milk thistles
+  MARILLEN: Apricts
+  MEHRJÄHRIGE BAUMSCHULEN: Perennial nurseries
+  MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN: Mow meadow three and more uses
+  MÄHWIESE/-WEIDE ZWEI NUTZUNGEN: Mow meadow two uses
+  NATURSCHUTZFACHLICH WERTVOLLE PFLEGEFLÄCHE: Valuable care area in nature conservation
+  NEKTARINEN: Nectarines
+  OBST IM FOLIENTUNNEL: Fruit in foil tunnel
+  OBST IM GEWÄCHSHAUS: Fruit in the greenhouse
+  OBST/HOPFEN BODENGESUNDUNG: Fruit/hops soil health
+  PELUSCHKE: Field pea #from Peluschke
+  PFIRSICHE: Peaches
+  PFLAUMEN: Plums
+  PHACELIA: Phacelia
+  PLATTERBSEN: Veet peas
+  QUINOA: Quinoa
+  QUITTEN: Quinces
+  REBSCHULEN: Vineyards
+  ROLLRASEN: Roll turf
+  RÜBENVERMEHRUNG: Beet propagation
+  SAATKARTOFFELN: Seed potatoes
+  SAATMAISVERMEHRUNG: Seed maize propagation
+  SCHALENFRÜCHTE (WALNÜSSE, HASELNÜSSE, ...): Nuts (walnuts, hazelnuts, ...)
+  SCHNITTWEINGARTEN: Pruning vineyard
+  SENF: Mustard
+  SILOMAIS: Silomais
+  SOJABOHNEN: Soybeans
+  SOMMERDINKEL (SPELZ): Spelled spelled
+  SOMMERGERSTE: Spring barley
+  SOMMERGERSTE / BUCHWEIZEN: Spring barley / buckwheat
+  SOMMERGERSTE / FELDGEMÜSE: Spring barley / field vegetables
+  SOMMERHAFER: Summer oats
+  SOMMERHAFER / FELDGEMÜSE: Summer oats / field vegetables
+  SOMMERHAFER / FUTTERRÜBE: Summer oats / food beet
+  SOMMERHARTWEIZEN (DURUM): Durum wheat (durum)
+  SOMMERHARTWEIZEN (DURUM) / BUCHWEIZEN: Durum wheat / buckwheat
+  SOMMERHARTWEIZEN (DURUM) / FELDGEMÜSE: Durum wheat (durum) / field vegetables
+  SOMMERKÜMMEL: Summer cumin
+  SOMMERMENGGETREIDE: Summer masli
+  SOMMERMENGGETREIDE / FELDGEMÜSE: Summer grain / field vegetables
+  SOMMERMOHN: Poppy
+  SOMMERRAPS: Summer rapes
+  SOMMERROGGEN: Summer rye
+  SOMMERROGGEN / FELDGEMÜSE: Summer rye / field vegetables
+  SOMMERTRITICALE: Summertriticale
+  SOMMERWEICHWEIZEN: Summer wheat
+  SOMMERWEICHWEIZEN / FELDGEMÜSE: Summer wheat / field vegetables
+  SOMMERWICKEN: Common vetch #from Sweet vets
+  SONNENBLUMEN: Sunflowers
+  SONSTIGE ACKERFLÄCHEN: Other arable areas
+  SONSTIGE ACKERKULTUREN: Other arable crops
+  'SONSTIGE FLÄCHEN: GESCHÜTZTER ANBAU': 'Other areas: protected extension'
+  SONSTIGE GRÜNLANDFLÄCHEN: Other grassland areas
+  SONSTIGE HUTWEIDEFLÄCHEN: Other hat grounds
+  SONSTIGE KULTUREN IM FOLIENTUNNEL: Other cultures in the foil tunnel
+  SONSTIGE KULTUREN IM GEWÄCHSHAUS: Other crops in the greenhouse
+  SONSTIGE SPEZIALKULTURFLÄCHEN: Other special cultivation areas
+  SONSTIGE WEINFLÄCHEN: Other wine areas
+  SONSTIGE ÖLFRÜCHTE (SAFLOR, ...): Other oil fruits (saflor, ...)
+  SONSTIGES FELDFUTTER: Other forage
+  SORGHUM: Sorghum
+  SPEISEINDUSTRIEKARTOFFELN: Industrial potatoes
+  SPEISEKARTOFFELN: Potatoes
+  SPEISEKARTOFFELN / FELDGEMÜSE: Potatoes / field vegetables
+  SPEISEKÜRBIS: Pumpkin
+  STRAUCHBEEREN: Bush berries # Brush berries
+  STREUWIESE: Grass meadow
+  STÄRKEINDUSTRIEKARTOFFELN: Starch industrial potatoes
+  SUDANGRAS: Sudan grass
+  SÜSSLUPINEN: Sweet lupins
+  TAFELBIRNEN: Table pears
+  TAFELÄPFEL: Table apples
+  TOPINAMBUR: Topinambur
+  WALDUMWELTMASSNAHMEN: Forest environmental measures
+  WECHSELWIESE (EGART, ACKERWEIDE): Alternate meadow (egart, field pasture)
+  WEICHSELN: Cherry
+  WEIN: Wine
+  WEIN BODENGESUNDUNG: Wine soil health
+  WICKEN - GETREIDE GEMENGE: Vicken-cereal mixture
+  WINTERDINKEL (SPELZ): Winter spelled (gult)
+  WINTERDINKEL (SPELZ) / FELDGEMÜSE: Winter spelled (gult) / field vegetables
+  WINTERGERSTE: Winter barley
+  WINTERGERSTE / BUCHWEIZEN: Winter barley / buckwheat
+  WINTERGERSTE / FELDGEMÜSE: Winter barley / field vegetables
+  WINTERGERSTE/FUTTERGRÄSER: Winter barley / forage grasses
+  WINTERGERSTE/KLEE: Winter barley/clover
+  WINTERGERSTE/KLEEGRAS: Winter barley/clover grass
+  WINTERGERSTE/KÖRNERMAIS: Winter barley/grain corn
+  WINTERGERSTE/SILOMAIS: Winter barley/silomaize
+  WINTERHAFER: Winter oats
+  WINTERHARTWEIZEN (DURUM): Durum wheat (durum)
+  WINTERHARTWEIZEN (DURUM) / BUCHWEIZEN: Durum wheat (durum) / buckwheat
+  WINTERHARTWEIZEN (DURUM) / FELDGEMÜSE: Durum wheat (durum) / field vegetables
+  WINTERKÜMMEL: Winter cumin
+  WINTERMENGGETREIDE: Winter masnis
+  WINTERMOHN: Winter poppies
+  WINTERRAPS: Winter rape
+  WINTERROGGEN: Winter rye
+  WINTERROGGEN / FELDGEMÜSE: Winter rye / field vegetables
+  WINTERRÜBSEN: Winter turned
+  WINTERTRITICALE: Wintertriticale
+  WINTERTRITICALE / FELDGEMÜSE: Wintertriticale / field vegetables
+  WINTERTRITICALE / HIRSE: Wintertriticale / millet
+  WINTERWEICHWEIZEN: Winter wheat
+  WINTERWEICHWEIZEN / BUCHWEIZEN: Winter wheat / buckwheat
+  WINTERWEICHWEIZEN / FELDGEMÜSE: Winter wheat / field vegetables
+  WINTERWICKEN: Winter hairy vetch #from Winter vets
+  ZUCKERMAIS: Sweet corn
+  ZUCKERMAIS / FELDGEMÜSE: Sweet corn / field vegetables
+  ZUCKERRÜBEN: Sugar beet
+  ZWETSCHKEN: Plums
+  ÖLKÜRBIS: Oil pumpkin
+  ÖLLEIN (NICHT ZUR FASERGEWINNUNG): Oil (not for fiber)
+  ÖLLEIN (NICHT ZUR FASERGEWINNUNG) / FELDGEMÜSE: Oil flax (not for fiber) / field
+    vegetables
+  ÖLRETTICH: Oilradish
+  20 JÄHRIGE STILLLEGUNG: 20 years of decommissioning
+  FRÜHKARTOFFELN / MAIS: New potatoes / corn
+  GRÜNSCHNITTROGGEN / SUDANGRAS: Green cut ryes / sudan grass
+  SOJABOHNEN / SOMMERWICKEN IN GETRENNTEN REIHEN: Soybeans / vets in separate rows
+  SOMMERTRITICALE / FELDGEMÜSE: Summer tritical / field vegetables
+  WINTERMENGGETREIDE / FELDGEMÜSE: Monster grain / field vegetables
+  WINTERTRITICALE / FUTTERRÜBE: Winter triticale / food beet

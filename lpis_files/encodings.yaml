@@ -1,0 +1,16 @@
+Austria:
+    2019: utf-8
+    2020: utf-8
+Belgium:
+    2019: iso8859_15
+    2020: iso8859_15
+Catalonia:
+    2018: cp1252
+    2019: utf-8
+    2020: utf-8
+Denmark:
+    2019: latin_1
+    2020: latin_1
+Netherlands:
+    2019: iso8859_16
+    2020: utf-8

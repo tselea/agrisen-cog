@@ -1,0 +1,23 @@
+Austria:
+    crop_type: 'SNAR_BEZEICHNUNG'
+    area_ha: 'SL_FLAECHE_BRUTTO_HA'
+Belgium:
+    crop_type: 'LBLHFDTLT'
+    crop_group: 'GEWASGROEP'
+    area_m: 'OPPERVL'
+Catalonia:
+    crop_type: 'Cultiu'
+    crop_group: 'Grup'
+    area_ha: 'HA'
+Denmark:
+    crop_type: 'Afgroede'
+    area_ha: 'IMK_areal'
+Netherlands:
+    2019:
+        crop_type: 'GWS_GEWAS'
+        crop_group: 'CAT_GEWASCATEGORIE'
+        area_m: 'Shape_Area'
+    2020:
+        crop_type: 'gewas'
+        crop_group: 'category'
+

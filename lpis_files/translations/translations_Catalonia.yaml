@@ -1,0 +1,194 @@
+#Catalonia LPIS 2019,2020
+crop_type:
+  AGROSTIS: Agrostis
+  ALBERCOQUERS: Apricots
+  ALBERGÍNIA: Eggplant
+  ALFALS NO SIE: Alfals
+  ALFALS SIE: Alfals
+  ALFÀBREGA: Basil
+  ALTRES FRUITERS: Other fruits
+  AMETLLERS: Almond trees
+  ANET: Dill
+  API: Celery
+  ARRÒS: Rice
+  AVELLANER: Hazelnut grower
+  BLAT DE MORO: Corn
+  BLAT DUR: Durum wheat
+  BLAT KHORASAN: Khorasan wheat
+  BLAT TOU: Soft wheat
+  BLEDA: Swiss chard
+  BOIXAC O CALÈNDULA: Boysac or calendula
+  BOLETS: Mushrooms
+  BORRATJA: Borage
+  CACAUET NO SIE: Peanut
+  CACAUET SIE: Peanut
+  CAMAMILLA: Chamomilla
+  CAMELINA: Camelina
+  CANYA COMUNA: Common cane
+  CAQUI: Khaki
+  CARABASSA: Pumpkin
+  CARBASSÓ: Courgette
+  CARXOFA: Artichoke
+  CASTANYERS: Chestnut woods
+  CEBES, CALÇOTS, PORROS I ALLS: Onions, calcots, leeks and garlic
+  CIGRONS NO SIE: Chickpeas
+  CIGRONS SIE: Chickpeas
+  CIRERERS: Cherry plants
+  CIVADA: Oats
+  CLEMENTINA: Clementine
+  CODONY: Quince
+  COGOMBRE: Cucumber
+  COL I COLIFLOR: Cabbage and cauliflower
+  COLZA: Rapeseed
+  CONREU DE FRUITS DEL BOSC: Cultivation of forest fruits
+  CORIANDRE: Coriander
+  CRÈIXENS: Watercress
+  CUA DE RATA (PHLEUM): Timothy
+  CÀNEM: Hemp
+  DALL O FROMENTAL (ARRHENATHER*: Arrhenatherum
+  DÀCTIL (DACTYLIS): Dactyl (dactylis)
+  ENCIAM: Lettuce
+  ENDÍVIA, ESCAROLA I XICOIRA: Endive, ecarole and chicory
+  ERBS (LLEGUM) NO SIE: Herbs (legums)
+  ERBS (LLEGUM) SIE: Herbs (legues)
+  ESPARRECS: Asparagus
+  ESPECIES AROMATIQUES LLENYOSES: Woody aromatic spices
+  ESPECIES AROMÀTIQUES HERBÀCI: Aromatic spices herbaceous
+  ESPELTA: Spelt
+  ESPINAC: Spinach
+  FAJOL: Bean
+  FARIGOLA O TIMÓ: Thyme
+  FAVERA BORDA NO SIE O MOREU N*: Red valerian or mulberry
+  FAVERS BORDA SIE O MOREU SIE: Red valerian or mulberry
+  FAVES I FAVONS NO SIE: Beans
+  FAVES I FAVONS SIE: Beans
+  FENIGREC NO SIE: Fenugreek
+  FENIGREC SIE: Fenugreek
+  FESTUCA: Fescue
+  FIGUERA: Fig
+  FLORS I ORNAMENTALS: Flowers and ornaments
+  FONOLL: Fennel
+  FRUITERS VARIS: Various fruits
+  GARLANDA NO SIE: Garland
+  GARLANDA SIE: Garland
+  GARROFER: Carob
+  GERDS: Raspberry
+  GIRA-SOL: Sunflower
+  GROSELLA: Currants
+  GUARET NO SIE/ SUP. LLIURE SE*: Fallow
+  GUARET SIE AMB ESPÈCIES MEL?L: Fallow
+  GUARET SIE/ SUP. LLIURE SEMBRA: Fallow
+  GUIXES NO SIE O PEDREROL NO S*: Grass pea
+  GUIXES SIE O PEDREROL SIE: Grass pea
+  GUIXÓ NO SIE O PÈSOL QUADRAT: Grass pea or square pea
+  HISOP: Hyssop #from Hyspops
+  HORTA: Garden
+  JULIVERT: Parsley
+  KIWI: Kiwi fruit
+  LAVANDA O ESPÍGOL: Lavender or lavender
+  LLENTIES NO SIE: Lentils
+  LLENTIES SIE: Lentils
+  LLI: Flax
+  LLIMONER: Lemon tree
+  LLÚPOL: Hops
+  MADUIXA: Strawberry
+  MAGRANER: Pomegranate
+  MANDARINER: Mandarin
+  MELISSA O TARONGINA: Melissa or orange
+  MELÓ: Melon
+  MENTA: Mint
+  MESTALL: Mestall
+  MILL: Millet
+  MONGETA NO SIE: Bean
+  MONGETA SIE: Bean
+  NABIUS: Blueberries
+  NAP I COL XINESA: Turin and chinese cabbage
+  NASHI: Nashi pear
+  NECTARINS: Nectarines
+  NESPRER: Japanese medlar
+  NOGUERES: Walnuts
+  OLIVERES: Olives
+  ORDI: Barley
+  ORENGA: Orange
+  PASTANAGA: Carrot
+  PATATA: Potato
+  PEBROT: Pepper
+  PERERES: Pears
+  PERERES/POMERES: Pear/apple trees
+  PERICÓ O HERBA DE SANT JOAN: Saint John's wort
+  PISTATXER O FESTUC: Pistachio or pistachou
+  POA: Poa
+  POMELO O ARANJA: Grapefruit or grapefruit
+  POMERES: Apples
+  PRESSEGUERS: Peach
+  PRESSEGUERS/NECTARINS: Peaches/nectarins
+  PRUNERES: Prunes
+  PÈSOL I CIVADA NO SIE: Peas and oats
+  PÈSOL I CIVADA SIE: Peas and oats
+  PÈSOL I ORDI NO SIE: Peas and barley
+  PÈSOL I ORDI SIE: Peas and barley
+  PÈSOLS NO SIE: Peas
+  PÈSOLS SIE: Peas
+  QUINOA: Quinoa
+  RAVE: Radish
+  RAY-GRASS: Ryegrass
+  RAÏM DE TAULA: Table grapes
+  REMOLATXA: Beet
+  ROMANÍ: Romani
+  SAFRÀ: Saffron
+  SAJOLIDA: Sajolida
+  SATSUMA: Satsuma mandarin
+  SOIA NO SIE: Soy
+  SOIA SIE: Soya
+  SORGO: Sorghum
+  SULLA NO SIE O ENCLOVA NO SIE: Sulla or enclova
+  SULLA SIE O ENCLOVA SIE: Sulla or enclose
+  SÀLVIA: Sage
+  SÈGOL: Rye
+  SÍNDRIA: Watermelon
+  TARONGER: Orange
+  TOMÀQUET: Tomato
+  TRAMUSSOS DOLÇOS SIE: Lupin
+  TREPADELLA NO SIE: Onobrychis
+  TREPADELLA SIE: Onobrychis
+  TRITICALE: Triticale
+  TRÈVOL NO SIE: Clover
+  TRÈVOL SIE: clover
+  TÒFONA: Truffle
+  VECES NO SIE: Vetch
+  VECES SIE: Vetch
+  VEÇA I BLAT NO SIE: Vetch and wheat
+  VEÇA I BLAT SIE: Vetch and wheat
+  VEÇA I CIVADA NO SIE: Vetch and oats
+  VEÇA I CIVADA SIE: Vetch and oats
+  VEÇA I ORDI NO SIE: Vetch and barley
+  VEÇA I ORDI SIE: Vetch and barley
+  VEÇA I TRITICALE  NO SIE: Vetch and triticale
+  VEÇA I TRITICALE SIE: Vetch and triticale
+  VINYES: Vineyards
+  VIVER ARBRE I ARBUST: Tree and shrub nursery
+  '''ALGARROBA'' HERBÀCIA SIE': Carob #from'''algarroba'' herbácia sie'
+  ALGARROBA' HERBÀCIA SIE: Carob herbs
+  CLOSA ANY 1: Close year 1
+  ESCAIOLA: Phalaris
+  MANDARINER HÍBRID: Hybrid mandarin
+  MARDUIX: Marduix
+  TABAC: Tobacco
+  TRAMUSSOS DOLÇOS NO SIE: Sweet snaps don't sie
+  TRITORDEUM: Tritordeum
+crop_group:
+  ALTRES PRODUCTES: Other products
+  ARROS: Rice
+  CEREALS: Cereals
+  CEREALS D'ESTIU: Summer cereals
+  CITRICS: Citrus
+  FARRATGERES: Fodder farms
+  FRUITA DOLCA: Sweet fruit
+  FRUITS DE CLOSCA: Shell fruits
+  GUARET: Fallow
+  HORTICOLES: Horticulture
+  LLEGUMINOSES: Legumes
+  OLEAGINOSES: Oleaginous
+  OLIVERAR: Oliver
+  PROTEAGINOSES: Proteaginous
+  VINYA: Vineyard

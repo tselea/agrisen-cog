@@ -1,0 +1,318 @@
+#Belgium LPIS 2019,2020
+crop_type:
+  (Knol)venkel - industrie: Fennel (tuber) - industry
+  (Knol)venkel - vers: (tuber) fennel - fresh
+  Aardappelen (niet-vroege): Potatoes (not early)
+  Aardappelen (pootgoed): Potatoes (seed potatoes)
+  Aardappelen (primeur, rooi voor 20/6): Potatoes (first, harvest before 20/6)
+  Aardappelen (vroege, rooi na 19/6): Potatoes (early, harvest after 19/6)
+  Aardbeien: Strawberries
+  Aardbeiplanten: Strawberry plants
+  Ajuinen (niet vroege) - vers: Onions (not early) - fresh
+  Ajuinen (niet-vroege) - industrie: Onions (non-early) - industry
+  Ajuinen (vroege) - industrie: Onions (early) - industry
+  Ajuinen (vroege) - vers: Onions (early) - fresh
+  Andere alternatieve slasoorten - industrie: Other alternative lettuce varieties - industry
+  Andere alternatieve slasoorten - vers: Other alternative lettuce varieties - fresh
+  Andere bebossing: Other afforestation
+  Andere bedekking: Other cover
+  Andere bessen: Other berries
+  Andere eenjarige fruitteelten: Other annual fruit crops
+  Andere granen (bv. Mengkoren): Other grains (e.g. mixed wheat)
+  Andere groenten - industrie: Other vegetables - industry
+  Andere groenten - vers: Other vegetables - fresh
+  Andere hennep dan vezelhennep: Hemp other than fiber hemp
+  Andere kolen - industrie: Wild cabbage industry #from Other coal - industry
+  Andere kolen - vers: Wild cabbage fresh #from Other coals - fresh
+  Andere kruiden -  industrie: Other herbs - industry
+  Andere kruiden - vers: Other herbs - fresh
+  Andere meerjarige fruitteelten: Other perennial fruit crops
+  Andere niet-houtachtige sierplanten: Other non-woody ornamental plants
+  Andere niet-vlinderbloemige groenbedekker: Other non-butterfly green cover plants
+  Andere oliehoudende zaden: Other oilseeds
+  Andere stallen en gebouwen: Other stables and buildings
+  Andere vlinderbloemige groenbedekker: Other leguminous green cover plants
+  Andere voedergewassen: Other fodder crops
+  Andijvie - industrie: Endive - industry
+  Andijvie - vers: Endive - fresh
+  Artisjok - vers: Artichoke - fresh
+  Asperge - industrie: Asparagus - industry
+  Asperges - vers: Asparagus - fresh
+  Aubergines - vers: Eggplants - fresh
+  Azalea: Azalea
+  Basilicum - industrie: Basil - industry
+  Basilicum - vers verbruik: Basil - fresh consumption
+  Bebossing (korte omlooptijd): Afforestation (short rotation)
+  Bebossing loofbomen-ecologisch: Afforestation deciduous trees-ecological
+  Bebossing loofbomen-economisch: Afforestation of deciduous trees-economical
+  Bebossing naaldbomen: Afforestation of conifers
+  Bebossing populieren: Poplar afforestation
+  Begonia's voor de knol: Begonias for the tuber
+  Begraasde niet-landbouwgrond met overeenkomst: Grazed non-agricultural land with agreement
+  Bieslook - industrie: Chives - industry
+  Bieslook - vers verbruik: Chives - fresh consumption
+  Bladrammenas: Fodder radish
+  Bladselder - industrie: Celery leaves - industry
+  Bladselder - vers: Celery leaves - fresh
+  Blauwe bessen: Blueberries
+  Bleekselder - industrie: Celery - industry
+  Bleekselder - vers: Celery - fresh
+  Bloeiende kamerplanten (kalanchoë, ...): Flowering houseplants (kalanchoe, ...)
+  Bloembollen en -knollen, andere dan begonia: Flower bulbs and tubers, other than begonia
+  Bloemenmengsel: Flower mixture
+  Bloemenmengsel voor EAG Braak: Flower mixture for eag braak
+  Bloemkool - industrie: Cauliflower - industry
+  Bloemkool - vers: Cauliflower - fresh
+  Boekweit: Buckwheat
+  Boerenkool - industrie: Kale - industry
+  Boerenkool - vers: Kale - fresh
+  Bomen in groep: Group trees
+  Boomkweek - andere: Tree cultivation - other
+  Boomkweek - bosplanten: Tree cultivation - forest plants
+  Boomkweek - fruitplanten: Tree cultivation - fruit plants
+  Boomkweek - sierplanten: Tree cultivation - ornamental plants
+  Braakliggend land met minimale activiteit met EAG: Derelict land with minimal activity with eag
+  Braakliggend land met minimale activiteit zonder EAG: Derelict land with minimal activity without eag
+  Braakliggend land zonder minimale activiteit: Derelict land with no minimum activity
+  Braambessen: Blackberries
+  Broccoli - industrie: Broccoli - industry
+  Broccoli - vers: Broccoli - fresh
+  Brouwgerst: Brewing barley
+  Butternutpompoenen - industrie: Butternut squashes - industry
+  Butternutpompoenen - vers: Butternut squashes - fresh
+  Champignons (loods): Mushrooms (shed)
+  Chinese kool - industrie: Chinese cabbage - industry
+  Chinese kool - vers: Chinese cabbage - fresh
+  Chrysanten: Chrysanthemums
+  Cichorei (inuline): Chicory (inulin)
+  Cichorei (koffiesurrogaat): Chicory (coffee substitute)
+  Courgettes - industrie: Zucchini - industry
+  Courgettes - vers: Zucchini - fresh
+  Druiven: Grapes
+  Eenjarige klaver: Annual clover
+  Eenjarige luzerne: Annual alfalfa
+  Engelwortel - industrie: Angelica - industry
+  Erwten (andere dan droog geoogst) - industrie: Peas (other than dry harvested) -
+    industry
+  Erwten (andere dan droog geoogst) - vers: Peas (other than dry harvested) - fresh
+  Faunamengsel: Fauna mixture
+  Festulolium: Festulolium
+  Flageolets (voor de boon) - industrie: Flageolets (for the bean) - industry
+  Flageolets (voor de boon) - vers: Flageolets (for the bean) - fresh
+  Frambozen: Raspberries
+  Gele mosterd: Yellow mustard
+  Geneeskrachtige en aromatische planten en kruiden: Medicinal and aromatic plants and herbs
+  Gierst: Millet
+  Grasklaver: Grass clover
+  Graskruiden mengsel: Grass herb mixture
+  Grasland: Grassland
+  Grasluzerne: Grass alfalfa
+  Graszoden: Turf
+  Groene kamerplanten (ficus, ...): Green houseplants (ficus, ...)
+  Groene selder - industrie: Green celery - industry
+  Groene selder - vers: Green celery - fresh
+  Hazelnoten: Hazelnuts
+  Heide in natuurbeheer: Heathland
+  Hoofdgebouwen: Main buildings
+  Hop: Hop
+  Houtkanten en houtwallen <= 10 m breed: Wooded edges and wooded banks <= 10 m wide
+  Ijsbergsla - industrie: Iceberg lettuce - industry
+  Ijsbergsla - vers: Iceberg lettuce - fresh
+  Japanse haver: Japanese oats
+  Jongplanten voor de sierteelt: Young plants for floriculture
+  Kerstbomen: Christmas trees
+  Kervel - industrie: Chervil - industry
+  Kervel - vers: Chervil - fresh
+  Kiwibes: Kiwi berry
+  Knolselder - industrie: Celeriac - industry
+  Knolselder - vers: Celeriac - fresh
+  Komkommers - vers: Cucumbers - fresh
+  Koolraap - industrie: Kohlrabi - industry
+  Koolraap - vers: Kohlrabi - fresh
+  Koolrabi - industrie: Kohlrabi - industry
+  Koolrabi - vers: Kohlrabi - fresh
+  Korrelmaïs: Grain corn
+  Kropsla - industrie: Lettuce - industry
+  Kropsla - vers: Head lettuce - fresh
+  Lupinen: Lupins
+  Meerjarige fruitteelten (appel): Perennial fruit crops (apple)
+  Meerjarige fruitteelten (peer): Perennial fruit crops (pear)
+  Meerjarige fruitteelten (perzik): Perennial fruit crops (peach)
+  Meerjarige fruitteelten (pruim): Perennial fruit crops (plum)
+  Meerjarige fruitteelten (zoete kers, hoogstam): Perennial fruit crops (sweet cherry, standard)
+  Meerjarige fruitteelten (zoete kers, laagstam): Perennial fruit crops (sweet cherry, low stem)
+  Meerjarige fruitteelten (zure kers): Perennial fruit crops (sour cherry)
+  Meerjarige fruitteelten hoogstam (appel): Perennial fruit crops standard (apple)
+  Meerjarige fruitteelten hoogstam (peer): Perennial fruit crops standard (pear)
+  Meerjarige klaver: Perennial clover
+  Meerjarige luzerne: Perennial alfalfa
+  Mengsel van gras en vlinderbloemigen (andere dan grasklaver): Mixture of grass and leguminous plants (other than grass clover)
+  Mengsel van niet-vlinderbloemige groenbedekkers: Mixture of non-butterfly green cover plants
+  Mengsel van vlinderbloemigen: Mixture of legumes
+  Miscanthus: Miscanthus
+  Natuurlijk grasland met minimumactiviteit: Natural grassland with minimum activity
+  Natuurlijk grasland zonder minimumactiviteit: Natural grassland with no minimum activity
+  Niet ingezaaid akkerland: Unsown arable land
+  Niet nader omschreven gewas - kleine landbouwer: Unspecified crop - small farmer
+  Niet-eetbare tuinbouwgewassen: Non-edible horticultural crops
+  Olievlas (geen vezelvlas): Oil flax (no fiber flax)
+  Onverharde landingsbaan of veiligheidszones op vliegvelden: Unpaved runway or airport safety zones
+  Paprika - industrie: Bell pepper - industry
+  Paprika - vers: Bell pepper - fresh
+  Pastinaak - industrie: Parsnip - industry
+  Pastinaak - vers: Parsnip - fresh
+  Perk- en balkonplanten: Bedding and balcony plants
+  Peterselie - industrie: Parsley - industry
+  Peterselie - vers: Parsley - fresh
+  Phacelia: Phacelia
+  Plantgoed van niet-vlinderbloemige groenten: Planting material of non-butterfly vegetables
+  Plantgoed van vlinderbloemige groenten: Planting material of leguminous vegetables
+  Poelen <= 0,1 ha: Pools <= 0.1 ha
+  Pompoenen - industrie: Pumpkins - industry
+  Pompoenen - vers: Pumpkins - fresh
+  Prei - industrie: Leek - industry
+  Prei - vers: Leek - fresh
+  Quinoa: Quinoa
+  Raap - industrie: Turnip - industry
+  Raap - vers: Turnip - fresh
+  Rabarber - industrie: Rhubarb - industry
+  Rabarber - vers: Rhubarb - fresh
+  Radijs - vers: Radish - fresh
+  Raketsla - Rucola - vers: Rocket salad - arugula - fresh
+  Rammenas - industrie: Black radish - industry
+  Rammenas - vers: Black radish - fresh
+  Rode bessen: Redcurrant
+  Rode biet - industrie: Beetroot - industry
+  Rode biet - vers: Beetroot - fresh
+  Rode klaver: Red clover
+  Rode kool - industrie: Red cabbage - industry
+  Rode kool - vers: Red cabbage - fresh
+  Rozelaars: Rose boots
+  Savooikool - industrie: Savoy cabbage - industry
+  Savooikool - vers: Savoy cabbage - fresh
+  Schorseneer - industrie: Salsify - industry
+  Schorseneer - vers: Salsify - fresh
+  Sierbomen en -struiken: Ornamental trees and shrubs
+  Silomaïs: Silo corn
+  Sjalotten - vers: Shallots - fresh
+  Snijbloemen - rozen: Cut flowers - roses
+  Snijbloemen andere dan rozen < 5 jaar: Cut flowers other than roses < 5 years
+  Snijbloemen andere dan rozen >= 5 jaar: Cut flowers other than roses >= 5 years
+  Snijbonen - industrie: String beans - industry
+  Snijbonen - vers: String beans - fresh
+  Snijplanten < 5 jaar: Cut plants < 5 years
+  Snijplanten >= 5 jaar: Cut plants >= 5 years
+  Snijrogge: Cutting rye
+  Soedangras: Sudan grass
+  Sojabonen: Soybeans
+  Sorghum: Sorghum
+  Spelt: Spelt #from Spells
+  Spinazie - industrie: Spinach - industry
+  Spinazie - vers: Spinach - fresh
+  Spruitkolen - vers: Brussels sprouts - fresh
+  Spruitkool - industrie: Brussels sprouts - industry
+  Stamslabonen - industrie: Green beans - industry
+  Stamslabonen - vers: Green beans - fresh
+  Stekelbessen: Gooseberries
+  Suikerbieten: Sugar beets
+  Tabak: Tobacco
+  Tagetes (Afrikaantje): Tagetes (marigold)
+  Teelt niet vast te stellen: Cultivation cannot be determined
+  Tomaten - vers: Tomatoes - fresh
+  Triticale: Triticale
+  Tuin- en veldbonen (Vicia faba) - industrie: Broad and field beans (vicia faba) - industry
+  Tuin- en veldbonen (Vicia faba) - vers: Broad and field beans (vicia faba) - fresh
+  Tuin- en veldbonen (niet voor menselijke consumptie): Broad and field beans (not for human consumption)
+  Vaste planten: Perennials
+  Veldsla - industrie: Lamb's lettuce - industry
+  Veldsla - vers: Lamb's lettuce - fresh
+  Vezelhennep (bestemd voor vezelproductie): Fiber hemp (intended for fiber production)
+  Vezelvlas (bestemd voor vezelproductie): Fiber flax (intended for fiber production)
+  Voederbieten: Fodder beets
+  Voedererwten (niet voor menselijke consumptie): Field peas (not for human consumption)
+  Voederkool (bladkool): Feed cabbage (leaf cabbage)
+  Voederrapen: Fodder turnips
+  Voederwortelen: Fodder carrots
+  Volkstuinpark: Allotment park
+  Walnoten: Walnuts
+  Weiland met niet-oogstbare bomen (> 100 bomen per ha): Pasture with non-harvestable trees (> 100 trees per ha)
+  Weiland met oogstbare hoogstam bomen (> 100 bomen/ha): Pasture with harvestable standard trees (> 100 trees/ha)
+  Wijmenaanplantingen: Vine plantations
+  Wijnstokken: Vines
+  Winterbloeiende halfheesters: Winter-flowering semi-shrubs
+  Wintergerst: Winter barley
+  Winterharde sierplanten: Winter-hardy ornamental plants
+  Winterhaver: Winter oats
+  Winterkoolzaad: Winter rapeseed
+  Winterrogge: Winter rye
+  Wintertarwe: Winter wheat
+  Witloof (voor het loof) - industrie: Chicory (for the foliage) - industry
+  Witloof (voor het loof) - vers: Chicory (for the foliage) - fresh
+  Witloofwortel: Chicory root
+  Witte kool - industrie: White cabbage - industry
+  Witte kool - vers: White cabbage - fresh
+  Wortel (niet-vroege) (consumptie) - industrie: Carrot (non-early) (consumption)
+    - industry
+  Wortel (niet-vroege) (consumptie) - vers: Carrot (non-early) (consumption) - fresh
+  Wortel (vroege) (consumptie) - industrie: Carrot (early) (consumption) - industry
+  Wortel (vroege) (consumptie) - vers: Carrot (early) (consumption) - fresh
+  Wortelpeterselie - industrie: Parsley root - industry
+  Zomergerst: Summer barley
+  Zomerhaver: Summer oats
+  Zomerkoolzaad: Summer rapeseed
+  Zomerrogge: Summer rye
+  Zomertarwe: Summer wheat
+  Zonnebloempitten: Sunflower seeds
+  Zwarte bessen: Black berries
+  Aardappelen (geplande oogst vanaf 1/9): Potatoes (planned harvest from 1/9)
+  Aardappelen (geplande oogst voor 1/9): Potatoes (planned harvest for 1/9)
+  Andere hennep dan vezelhennep (niet voor menselijke consumptie): Hemp other than fiber hemp (not for human consumption)
+  Asperges - industrie: Asparagus - industry
+  Bebossing met contract voor 2008: Afforestation with contract for 2008
+  Begraasde niet-landbouwgrond: Grazed non-agricultural land
+  Bloeiende heesters: Flowering shrubs
+  Bloembollen en -knollen: Flower bulbs and tubers
+  Bomenrijen: Rows of trees
+  Boomkweek - bos- en haagplanten: Tree cultivation - forest and hedge plants
+  Boomkweek - fruitkweek: Tree cultivation - fruit cultivation
+  Bos: Bunch
+  Laanbomen: Avenue trees
+  Mengsel van gras en vlinderbloemigen (andere dan grasklaver of g: Mixture of grass and leguminous plants (other than grass clover or g
+  Mengteelt  andere granen en vlinderbloemige (bv. erwten en gerst: Mixed cultivation of other cereals and leguminous plants (e.g. peas and barley
+  Mengteelt wintertarwe of triticale en vlinderbloemige: Mixed cultivation of winter wheat or triticale and leguminous plants
+  Niet-bittere lupinen: Sweet lupins
+  Niet-bloeiende heesters: Non-flowering shrubs
+  Plantgoed en teeltmateriaal van niet-vlinderbloemige groenten: Planting material and propagating material of non-leguminous vegetables
+  Plantgoed en teeltmateriaal van vlinderbloemige groenten: Planting material and propagating material of leguminous vegetables
+  Potchrysanten: Pot chrysanthemums
+  Raketsla - Rucola - industrie: Rocket salad - arugula - industry
+  Sjalotten - industrie: Shallots - industry
+  Solitaire bomen: Solitary trees
+  Spruitkool - vers: Brussels sprouts - fresh
+  Stamslabonen/sperziebonen - industrie: Standard green beans/green beans - industry
+  Stamslabonen/sperziebonen - vers: Green beans/green beans - fresh
+  Teeltmateriaal wijnstokken: Propagating material vines
+  Wikke: Vetch
+  Winterraapzaad: Winter rapeseed
+  Witloof (forcerie) - industrie: Chicory (force) - industry
+  Witloof (forcerie) - vers: Chicory (forcery) - fresh
+  Zaaizaad graangewassen: Seed cereals
+  Zaaizaad grassen: Seed grasses
+  Zaaizaad groenten: Seed vegetables
+  Zaaizaad olie- en vezelhoudende planten: Seed oil and fiber plants
+  Zaaizaad wintertarwe of triticale: Winter wheat or triticale seed
+  Zoete aardappel: Sweet potato
+crop_group:
+ 'Landbouwinfrastructuur': 'Agricultural infrastructure'
+ 'Maïs': 'Maize'
+ 'Fruit en Noten': 'Fruits and nuts'
+ 'Houtachtige gewassen': 'Woody crops'
+ 'Grasland': 'Grassland'
+ 'Overige gewassen': 'Other crops'
+ 'Groenten, kruiden en sierplanten': 'Vegetables, herbs and ornamental plants'
+ 'Granen, zaden en peulvruchten': 'Grains, seeds and legumes'
+ 'Voedergewassen': 'Forage'
+ 'Water': 'Water'
+ 'Aardappelen': 'Potatoes'
+ 'Vlas en hennep': 'Flax and hemp'
+ 'Suikerbieten': 'Sugar beets'

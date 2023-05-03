@@ -1,0 +1,365 @@
+#Denmark LPIS 2019,2020
+crop_type:
+  20-årig udtagning: 20-year withdrawal
+  20-årig udtagning af agerjord med frivillig skovrejsning: 20-year removal of arable
+    land with voluntary afforestation
+  20-årig udtagning med tilsagn om skovrejsning: 20-year extraction with commitment
+    to afforestation
+  Agurker: Cucumbers
+  Anden buskfrugt: Other bush fruit
+  Anden træfrugt: Other tree fruit
+  Asieagurker: Asian cucumbers
+  Asparges: Asparagus
+  Bederoefrø: Beetroot seeds
+  Bestøverbrak: Pollinator fallow
+  Bladbedefrø, rødbedefrø: Beetroot seeds, beetroot seeds
+  Bladpersille: Leaf parsley
+  Bladselleri: Celery leaf
+  Blandet frugt: Mixed fruit
+  Blanding af efterårssåede arter: Mixture of autumn sown species
+  Blanding af markfrø til udsæd: Mixture of field seeds for sowing
+  Blanding af oliearter: Blend of oils
+  Blanding af vinterkorn, grønkorn: Mixture of winter grains, green grains
+  Blanding af vårkorn, grønkorn: Mixture of spring grain, green grain
+  Blanding af vårsåede arter: Mixture of spring-sown species
+  Blanding bredbladet afgrøde, frø/kerne: Mix broadleaf crop, seed/kernel
+  Blanding, andre industriafgr.: Mixing, other industrial degr.
+  Blandkorn, vårsået, helsæd: Mixed grain, spring-sown, whole-seeded
+  Blomkål: Cauliflower
+  Blomme med undervækst af græs: Plum with undergrowth of grass
+  Blomme uden undervækst af græs: Plum without undergrowth of grass
+  Blomsterbrak: Flower fallow
+  Blomsterfrø: Flower seeds
+  Blomsterløg: Flower bulbs
+  Blåbær: Blueberry
+  Boghvede: Buckwheat
+  Brak, forårsslåning: Fallow, spring mowing
+  Brak, sommerslåning: Fallow, summer mowing
+  Broccoli: Broccoli
+  Brombær: Blackberry
+  Bælgplanter, frø: Legumes, seeds
+  Bælgsæd blanding: Legume seed mixture
+  Bælgsæd, andre typer til modenhed blanding: Leguminous seed, other types for maturity
+    mixture
+  Bælgsæd, flerårig blanding: Legume seed, perennial mix
+  Bæredygtig skovdrift: Sustainable forestry
+  Bæredygtig skovdrift i Natura 2000-område: Sustainable forestry in a natura 2000
+    area
+  Centnergræskar: Centner pumpkin
+  Chrysanthemum Garland, frø: Chrysanthemum garland, seed
+  Cikorierødder: Chicory roots
+  Containerplads: Container space
+  Courgette, squash: Zucchini, squash
+  Dildfrø: Dill seeds
+  Ej landbrug, MSO, omlagt fra permanent græs: Non-farming, mso, converted from permanent
+    grass
+  El: El
+  Elefantgræs: Elephant grass
+  En- og to-årige planter: One- and two-year plants
+  Engrapgræsfrø (marktype): Grass seed (field type)
+  Engrapsgræsfrø (plænetype): Grass seed (lawn type)
+  Engsvingelfrø: Fenugreek seeds
+  Fodergulerødder: Fodder carrots
+  Fodermarvkål: Fodder marrow cabbage
+  Fodersukkerroer: Fodder sugar beet
+  Græs  under 50% kløver/lucerne, meget lavt udbytte (omdrift): Grass below 50% clover/alfalfa,
+    very low yield (rotation)
+  Græs i omdrift, uden udbetaling af økologi-tilskud: Grass in rotation, without payment
+    of organic subsidy
+  Græs med kløver/lucerne, under 50 % bælgpl. (omdrift): Grass with clover/alfalfa,
+    less than 50% legumes. (rotation)
+  Græs med vikke og andre bælgplanter, under 50 % bælgpl.: Grass with vetch and other
+    leguminous plants, less than 50% legume.
+  Græs og kløvergræs uden norm, over 50 % kløver (omdrift): Grass and clover grass
+    without norm, more than 50% clover (rotation)
+  Græs og kløvergræs uden norm, under 50 % kløver (omdrift): Grass and clover without
+    norm, less than 50% clover (rotation)
+  Græs til fabrik (omdrift): Grass for factory (circulation)
+  Græs til udegrise, omdrift: Grass for outdoor pigs, turnover
+  Græs til udegrise, permanent: Grass for outdoor pigs, permanent
+  Græs uden kløvergræs (omdrift): Grass without clover (rotation)
+  Græs under 50% kløver/lucerne, ekstremt lavt udbytte (omdrift): Grass below 50%
+    clover/alfalfa, extremely low yield (rotation)
+  Græs under 50% kløver/lucerne, lavt udbytte (omdrift): Grass below 50% clover/alfalfa,
+    low yield (rotation)
+  Græs, rullegræs: Grass, rolled grass
+  Grønkorn af hybridrug: Green grains of hybrid rye
+  Grønkorn af vinterbyg: Green grains of winter barley
+  Grønkorn af vinterhavre: Green grains of winter oats
+  Grønkorn af vinterhvede: Green grains of winter wheat
+  Grønkorn af vinterrug: Green grains of winter rye
+  Grønkorn af vintertriticale: Green grains of winter triticale
+  Grønkorn af vårbyg: Green grains of spring barley
+  Grønkorn af vårhavre: Green grains of spring oats
+  Grønkorn af vårhvede: Green grains of spring wheat
+  Grønkorn af vårrug: Green grains of spring rye
+  Grønkål: Kale
+  Grønkålfrø: Kale seeds
+  Grøntsager, andre (drivhus): Vegetables, other (greenhouse)
+  Grøntsager, andre (friland): Vegetables, other (free range)
+  Grøntsager, blandinger: Vegetables, mixes
+  Gul sennep: Yellow mustard
+  Gulerod: Carrot
+  Hamp: Hemp
+  Hassel: Hazel
+  Havtorn: Sea buckthorn
+  Hestebønner: Horse beans
+  Hindbær: Raspberry
+  Hindbær, stiklingeopformering: Raspberries, cuttings propagation
+  Humle: Hops
+  Hundegræsfrø: Dog grass seed
+  Hvenefrø, alm. og krybende: Buckwheat seed, common and crawling
+  Hvidkål: White cabbage
+  Hyben: The rose hip
+  Hyld: Shelf
+  Hønsegård uden plantedække: Chicken coop without plant cover
+  Hønsegård, permanent græs: Chicken coop, permanent grass
+  Ikke støtteberettiget landbrugsareal: Agricultural land not eligible for support
+  'Intern kode: Bar jord': 'Internal code: bare ground'
+  Japan kvæde: Japanese quince
+  Jordbær: Strawberry
+  Jordskokker, konsum: Jerusalem artichokes, edible
+  Juletræer og pyntegrønt på landbrugsjord: Christmas trees and ornamental greenery
+    on farmland
+  Karsefrø: Cress seeds
+  Kartofler, andre: Potatoes, others
+  Kartofler, lægge- (certificerede): Potatoes, laying (certified)
+  Kartofler, lægge- (egen opformering): Potatoes, laying (own propagation)
+  Kartofler, spise-: Potatoes, edible
+  Kartofler, stivelses-: Potatoes, starch
+  Kastanje (ægte): Chestnut (real)
+  Kinakål: Chinese cabbage
+  Kinesisk kålfrø: Chinese cabbage seed
+  Kløver til slæt: Clover for the plain
+  Kløverfrø: Clover seed
+  Kløvergræs til fabrik: Clover grass for factory
+  Kløvergræs, over 50% kløver (omdrift): Clover grass, over 50% clover (rotation)
+  Knoldselleri: Celery
+  Kommenfrø: Caraway seeds
+  Korn + bælgsæd under 50% bælgsæd: Grain + leguminous seed under 50% leguminous seed
+  Korn og bælgsæd, grønkorn, under 50% bælgsæd: Cereals and pulses, green grains,
+    less than 50% pulses
+  Korn og bælgsæd, helsæd, under 50% bælgsæd: Cereals and pulses, whole grain, less
+    than 50% pulses
+  Krydderurter (undtagen persille og purløg): Herbs (except parsley and chives)
+  Kålfrø (hvid- og rødkål): Cabbage seeds (white and red cabbage)
+  Kålroer: Turnips
+  Kørvelfrø: Chervil seeds
+  Lavskov: Lichen forest
+  Lucerne til fabrik: Alfalfa for factory
+  Lucerne, slæt: Alfalfa, plain
+  Lucernegræs, over 25% græs til slæt inkl. eget foder: Lucerne grass, over 25% grass
+    for slough incl. own feed
+  Lucernegræs, over 50% lucerne (omdrift): Alfalfa grass, over 50% alfalfa (rotation)
+  Lukket system: Closed system
+  Lysåbne arealer i skov: Light open areas in the forest
+  Løg: Onion
+  MFO - Lavskov: Mfo - lichen forest
+  MFO - Pil: Mfo - arrow
+  MFO - Poppel: Mfo - poplar
+  MFO - Poppel (0-100 andre træer pr. ha): Mfo - poplar (0-100 other trees per ha)
+  MFO - Poppel (100-400 andre træer pr. ha): Mfo - poplar (100-400 other trees per
+    ha)
+  MFO-Blomsterbrak: Mfo-flower fallow
+  MFO-bestøverbrak: Mfo pollinator fallow
+  MFO-brak, Udtagning, ej landbrugsareal: Mfo fallow, excavation, not agricultural
+    land
+  MFO-brak, forårsslåning: Mfo fallow, spring mowing
+  MFO-brak, sommerslåning: Mfo fallow, summer mowing
+  MFO-bræmme med blomsterblanding: Mfo brim with floral mix
+  MFO-bræmme, forårsslåning: Mfo edge, spring mowing
+  MFO-bræmme, miljøtilsagn: Mfo border, environmental commitment
+  MFO-bræmme, permanent græs, forårsslåning: Mfo border, permanent grass, spring mowing
+  MFO-bræmme, permanent græs, sommerslåning: Mfo border, permanent grass, summer mowing
+  MFO-bræmme, sommerslåning: Mfo edge, summer mowing
+  MFO-udyrket areal ved vandboring: Mfo uncultivated area by water drilling
+  MVJ ej udtagning, ej landbrugsareal: Mvj no extraction, no agricultural area
+  Majroefrø: Turnip seeds
+  Majs til modenhed: Maize to maturity
+  Mandelgræskar: Almond pumpkin
+  Medicinpl., en- og toårige: Medicinpl., one- and two-year-olds
+  Medicinpl., stauder: Medicinal plants, perennials
+  Medicinpl., vedplanter: Medicinal plants, woody plants
+  Melon: Melon
+  Miljøgræs MVJ-tilsagn (0 N), omdrift: Environmental grass mvj commitment (0 n), turnover
+  Miljøgræs MVJ-tilsagn (0 N), permanent: Environmental grass mvj commitment (0 n), permanent
+  Miljøgræs MVJ-tilsagn (80 N), omdrift: Environmental grass mvj commitment (80 n), rotation
+  Miljøtiltag, ej landbrugsarealer: Environmental measures, not agricultural areas
+  Minivådområder, projekttilsagn: Mini-wetlands, project commitments
+  Moskusgræskar: Musk gourd
+  Naturarealer, økologisk jordbrug: Natural areas, organic farming
+  Nyplantning i skov med træhøjde under 3 m: New planting in forest with tree height
+    below 3 m
+  Offentlig skovrejsning: Public afforestation
+  Oliehør: Oil flax
+  Pastinak: Parsnip
+  Pastinakfrø: Parsnip seeds
+  Permanent græs og kløvergræs uden norm, over 50 % kløver: Permanent grass and clover
+    grass without norm, over 50% clover
+  Permanent græs og kløvergræs uden norm, under 50 % kløver: Permanent grass and clover
+    grass without norm, less than 50% clover
+  Permanent græs til fabrik: Permanent grass for factory
+  Permanent græs ved vandboring: Permanent grass when drilling water
+  Permanent græs, fabrik, over 6 tons: Permanent grass, factory, over 6 tons
+  Permanent græs, lavt udbytte: Permanent grass, low yield
+  Permanent græs, meget lavt udbytte: Permanent grass, very low yield
+  Permanent græs, normalt udbytte: Permanent grass, normal yield
+  Permanent græs, uden kløver: Permanent grass, without clover
+  Permanent græs, uden udbetaling af økologi-tilskud: Permanent grass, without payment
+    of organic subsidy
+  Permanent græs, under 50% kløver/lucerne: Permanent grass, less than 50% clover/alfalfa
+  Permanent kløvergræs til fabrik: Permanent clover grass for factory
+  Permanent kløvergræs, over 50% kløver/lucerne: Permanent clover grass, over 50%
+    clover/alfalfa
+  Permanent lucerne og lucernegræs over 50% lucerne: Permanent alfalfa and alfalfa
+    grass over 50% alfalfa
+  Permanent lucernegræs over 25% græs, til fabrik: Permanent alfalfa grass over 25%
+    grass, for factory
+  Persillefrø: Parsley seeds
+  Pil: Arrow
+  Planteskolekulturer, stauder: Nursery cultures, perennials
+  Planteskolekulturer, vedplanter, til videresalg: Nursery cultures, woody plants,
+    for resale
+  Poppel: Poplar
+  Poppel (0-100 andre træer pr. ha): Poplar (0-100 other trees per ha)
+  Porre: Leek
+  Potteplanter: Potted plants
+  Purløg: Chives
+  Purløgsfrø: Chive seeds
+  Pyntegrønt, økologisk jordbrug: Ornamental green, organic farming
+  Pærer: Pear
+  Quinoa: Quinoa
+  Rabarber: Rhubarb
+  Radisefrø (inklusiv olieræddikefrø): Radish seeds (including oil radish seeds)
+  Rajgræs, efterårsudl. hybrid: Rye grass, autumn release hybrid
+  Rajgræs, hybrid: Rye grass, hybrid
+  Rajgræsfrø, alm.: Rye grass seed, common
+  Rajgræsfrø, alm. 1. år, efterårsudlagt: Rye grass seed, common 1st year, autumn
+    semester
+  Rajgræsfrø, ital.: Rye grass seed, ital.
+  Rajgræsfrø, ital. 1. år efterårsudlagt: Rye grass seed, ital. 1st year, laid out
+    in autumn
+  Rajsvingelfrø: Rice fescue seeds
+  Rajsvingelfrø, efterårsudlagt: Rice fescue seeds, sown in autumn
+  Rapgræsfrø, alm.: Rapeseed seed, common
+  Rekreative formål: Recreational purposes
+  Ribs: Currants
+  Rodpersille: Root parsley
+  Rosenkål: Brussel sprouts
+  Rucolafrø: Arugula seeds
+  Rødbede: Beetroot
+  Rødkål: Red cabbage
+  Rødsvingelfrø: Fenugreek seeds
+  Rønnebær: Rowan berries
+  Rørgræs: Reed grass
+  Salat (drivhus): Lettuce (greenhouse)
+  Salat (friland): Salad (free range)
+  Savoykål, spidskål: Savoy cabbage, scallions
+  Silomajs: Silage corn
+  Skorzonerrod/skorzonerrodfrø: Horseradish root/horseradish seed
+  Skov med biodiversitetsformål: Forest with biodiversity purposes
+  Skovdrift, alm.: Forestry, general
+  Skovlandbrug: Forestry
+  Skovrejsning (privat) ? forbedring af vandmiljø og grundvandsbeskyttelse: Forestry
+    (private) ? improvement of the water environment and groundwater protection
+  Skovrejsning i projektområde, som ikke er omfattet af tilsagn: Afforestation in
+    the project area, which is not covered by commitments
+  Skovrejsning på tidl. landbrugsjord 1: Afforestation on former agricultural land
+    1
+  Skovrejsning på tidl. landbrugsjord 3: Afforestation on former agricultural land
+    3
+  Småplanter, en-årige: Small plants, annuals
+  Snitblomster og snitgrønt: Cut flowers and cut greens
+  Sojabønner: Soybeans
+  Solbær: Currant
+  Solbær, stiklingeopformering: Currant, cuttings propagation
+  Solsikke: Sunflower
+  Sorghum: Sorghum
+  Spinat: Spinach
+  Spinatfrø: Spinach seeds
+  Spisedruer: Table grapes
+  Stauder: Perennials
+  Stikkelsbær: Gooseberry
+  Stikkelsbær, stiklingeopformering: Gooseberry, cuttings propagation
+  Sukkermajs: Sweet corn
+  Sukkerroer til fabrik: Sugar beet for factory
+  Surbær: Sour berries
+  Surkirsebær med undervækst af græs: Sour cherries with undergrowth of grass
+  Surkirsebær uden undervækst af græs: Sour cherries without undergrowth of grass
+  Svampe, champignon: Mushrooms, mushroom
+  Svingelfrø, stivbladet: Fenugreek seeds, stiff-leaved
+  Svingelfrø, strand-: Fenugreek seeds, beach
+  Sødkirsebær med undervækst af græs: Sweet cherry with undergrowth of grass
+  Sødkirsebær uden undervækst af græs: Sweet cherries without undergrowth of grass
+  Sødlupin: Sweet lupine
+  Tagetes, sygdomssanerende plante: Tagetes, disease-remedial plant
+  Timianfrø: Thyme seeds
+  Timothefrø: Timothy seeds
+  Tomater: Tomatoes
+  Trækvæde: Traction wetness
+  Udnyttet græs ved vandboring: Used grass for water drilling
+  Udyrket areal ved vandboring: Uncultivated area by water drilling
+  Valmuefrø: Poppy seeds
+  Valnød (almindelig): Walnut (regular)
+  Vindrue: Grape
+  Vinterbyg: Winter barley
+  Vinterbyg, helsæd: Winter barley, whole seed
+  Vinterhavre: Winter oats
+  Vinterhvede: Winter wheat
+  Vinterhvede, brødhvede: Winter wheat, bread wheat
+  Vinterhvede, helsæd: Winter wheat, whole grain
+  Vinterhybridrug: Winter hybrid rye
+  Vinterraps: Winter canola
+  Vinterrug: Winter rye
+  Vinterrug, helsæd: Winter rye, whole grain
+  Vinterspelt: Winter spelt #from Winter spell
+  Vintertriticale: Winter triticale
+  Vintertriticale, helsæd: Winter triticale, whole seed
+  Vådområder med udtagning: Wetlands with extraction
+  Vårbyg: Spring barley
+  Vårbyg, helsæd: Spring barley, whole seed
+  Vårhavre: Spring oats
+  Vårhavre, helsæd: Spring oats, whole seed
+  Vårhvede: Spring wheat
+  Vårhvede, brødhvede: Spring wheat, bread wheat
+  Vårhvede, helsæd: Spring wheat, whole grain
+  Vårraps: Spring rape
+  Vårrug: Spring rye
+  Vårspelt: Spring spelt #from Spring spell
+  Vårtriticale: Spring critical
+  skovrejsning (statslig) - forbedring af vandmiljø og grundvandsbeskyttelse: Afforestation
+    (state) - improvement of the water environment and groundwater protection
+  Æbler: Apples
+  Ærtehelsæd: Whole pea seed
+  Ærter: Peas
+  Ærter, konsum: Peas, edible
+  Øvrige afgrøder: Other crops
+  Anden skovdrift: Other forestry operations
+  Blandkorn, efterårssået helsæd: Mixed grain, autumn-sown whole seed
+  Brak langs vandløb og søer, forårsslåning (alternativ til efterafgrøder): Fallow
+    land along streams and lakes, spring mowing (alternative to fallow crops)
+  Brak langs vandløb og søer, forårsslåning (til målrettet kvælstofregulering): Fallow
+    land along streams and lakes, spring mowing (for targeted nitrogen regulation)
+  Brak langs vandløb og søer, sommerslåning (alternativ til efterafgrøder): Fallow
+    land along streams and lakes, summer mowing (alternative to fallow crops)
+  Brak langs vandløb og søer, sommerslåning (til målrettet kvælstofregulering): Fallow
+    land along streams and lakes, summer mowing (for targeted nitrogen regulation)
+  Brak, forårsslåning (til målrettet kvælstofregulering): Fallow, spring mowing (for
+    targeted nitrogen regulation)
+  Brak, sommerslåning (til målrettet kvælstofregulering): Fallow, summer mowing (for
+    targeted nitrogen regulation)
+  Grønkorn af vårtriticale: Green grains of spring triticale
+  Juletræer og pyntegrønt: Christmas trees and greenery
+  Kartofler, friteret/chips/pommes frites: Potatoes, fried/chips/french fries
+  Kartofler, pulver/granules-: Potatoes, powder/granules
+  Kartofler, spise: Potatoes, eat
+  Kartofler, spise- (proces, skrællet kogte): Potatoes, edible (process, peeled cooked)
+  Kløver til fabrik: Clover for factory
+  MFO-bræmme, permanent græs, miljøtilsagn: Mfo curb, permanent grass, environmental
+    commitment
+  Poppel (100-400 andre træer pr. ha): Poplar (100-400 other trees per ha)
+  Skovdrift med fjernelse af ved: Forestry with firewood removal
+  Skovrejsning (privat) - forbedring af vandmiljø og grundvandsbeskyttelse: Afforestation
+    (private) - improvement of the water environment and groundwater protection
+  Skovrejsning (statslig) - forbedring af vandmiljø og grundvandsbeskyttelse: Afforestation
+    (state) - improvement of water environment and groundwater protection

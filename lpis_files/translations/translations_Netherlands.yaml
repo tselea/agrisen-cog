@@ -1,0 +1,465 @@
+crop_group:
+  Bouwland: Arable land
+  Braakland: Fallow land
+  Grasland: Grassland
+  Overige: Others
+  Natuurterrein: Nature area
+
+crop_type:
+  Aardappelen, bestrijdingsmaatregel AM: Potatoes, control measure am
+  Aardappelen, cons. op kleigrond (vroeg, loofver voor 15-07): Potatoes, cons. on
+    clay soil (early, deciduous before 15-07)
+  Aardappelen, cons. op zand/veen (vroeg, loofver voor 15-07): Potatoes, cons. on
+    sand/peat (early, deciduous before 15-07)
+  Aardappelen, consumptie- op kleigrond: Potatoes, consumption - on clay soil
+  Aardappelen, consumptie- op zand-/veengrond: Potatoes, consumption on sandy/peat
+    soil
+  Aardappelen, poot op klei, uitgroeiteelt (loofver na 15-08): Potatoes, plant on
+    clay, outgrowth (leaves after 15-08)
+  Aardappelen, poot op zand/veen, uitgroei (loofver na 15-08): Potatoes, plant on
+    sand/peat, outgrowth (deciduous after 15-08)
+  Aardappelen, zetmeel geleverd aan buitenland: Potatoes, starch supplied to foreign
+    countries
+  Aardappelen, zetmeel-: Potatoes, starch
+  Aardappelen, zetmeel- TBM pootgoed: Potatoes, starch tbm seed potatoes
+  Aardappelrassen, poot- op kleigrond: Potato varieties, planted on clay soil
+  Aardappelrassen, poot- op zand-/veengrond: Potato varieties, planted on sandy/peat
+    soil
+  Aardperen: Jerusalem artichokes
+  Bieten, suiker-: Beets, sugar
+  Bieten, voeder-: Beets, fodder
+  Blauwmaanzaad: Blue moonseed
+  Bloembollen en - knollen: Flower bulbs and tubers
+  Bloemkwekerijgewassen (inclusief bloemzaden): Flower nursery crops (including flower
+    seeds)
+  Boekweit: Buckwheat
+  Bonen, bruine: Beans, brown
+  Bonen, tuin- (droog te oogsten) (geen consumptie): Beans, garden (dry harvest) (no
+    consumption)
+  Bonen, tuin- (groen te oogsten): Beans, garden (green to harvest)
+  Bonen, veld-(oa duive-, paarde-, wierbonen)(droog te oogsten: Beans, field (including
+    pigeon, horse, weed beans) (can be harvested dry
+  Boomkwekerij en vaste planten: Tree nursery and perennials
+  Bos (SBL-regeling): Forest (sbl scheme)
+  Bos (set aside regeling): Forest (set aside scheme)
+  Bos, blijvend, met herplantplicht: Forest, permanent, with replanting obligation
+  Bos, zonder herplantplicht: Forest, without replanting obligation
+  Braak met bos (SBL-regeling na 28 juni 1995): Fallow with forest (sbl scheme after
+    june 28, 1995)
+  Braak, natuur-: Vomit, natural
+  Cichorei: Chicory
+  Definitief aan de landbouw onttrokken cultuurgrond: Agricultural land definitively
+    withdrawn from agriculture
+  Dummycode voor dummypercelen: Dummy code for dummy parcels
+  Erwten, groene, droog te oogsten (geen conserven): Peas, green, dry to harvest (not
+    canned)
+  Erwten, groene/gele, groen te oogsten: Peas, green/yellow, green to harvest
+  Faunaranden: Wildlife edges
+  Fruit: Fruit
+  Gerst, winter-: Barley, winter
+  Gerst, zomer-: Barley, summer
+  Gierst: Millet
+  Graansorgho: Grain sorghum
+  Grasland, blijvend: Grassland, permanent
+  Grasland, tijdelijk: Grassland, temporary
+  Graszaad, Engels raai 1e jaar: Grass seed, english ray 1st year
+  Graszaad, Engels raai overjarig: Grass seed, english ray perennial
+  Graszaad, Italiaans: Grass seed, italian
+  Graszaad, overig: Grass seed, other
+  Graszaad, rietzwenkgras: Grass seed, tall fescue
+  Graszaad, roodzwenkgras, 1e jaar: Grass seed, red fescue, 1st year
+  Graszaad, roodzwenkgras, overjarig: Grass seed, red fescue, perennial
+  Graszaad, veldbeemd: Grass seed, smooth meadow
+  Graszaad, westerwolds: Grass seed, westerwolds
+  Graszoden: Turf
+  Groenbemesters, niet-vlinderbloemige: Green manure crops, non-leguminous
+  Groenbemesters, vlinderbloemige: Green manure crops, leguminous
+  Groenten open grond (inclusief groentezaden): Open ground vegetables (including
+    vegetable seeds)
+  Haver: Oats
+  Hazelnoten: Hazelnuts
+  Heide, begraasd: Heather, grazed
+  Hennep, vezel-: Hemp, fiber
+  Kanariezaad: Canary seed
+  Kapucijners (en grauwe erwten): Capuchins (and gray peas)
+  Karwijzaad (oogst dit jaar): Caraway seeds (this year's crop)
+  Klaverzaad: Clover seed
+  Koolzaad, winter (ook boterzaad): Rapeseed, winter (also butterseed)
+  Koolzaad, zomer (ook boterzaad): Rapeseed, summer (also butterseed)
+  Lupinen, niet bittere-: Lupins, not bitter-
+  Luzerne: Alfalfa
+  Mais, energie-: Corn, energy
+  Maïs, corncob mix: Corn, corncob mix
+  Maïs, korrel-: Corn, grain
+  Maïs, snij-: Corn, cut
+  Maïs, suiker-: Corn, sugar
+  Miscanthus (olifantsgras): Miscanthus (elephant grass)
+  Natuurlijk grasland (begraasd) met beperkte landbouwact.: Natural grassland (grazed)
+    with limited agricultural activity.
+  Natuurlijk grasland met hoofdfunctie landbouw: Natural grassland with main function
+    agriculture
+  Onbekend/gewas niet opgegeven: Unknown/crop not specified
+  Onbeteelde grond door een teeltverbod/ontheffing: Uncultivated land due to a cultivation
+    ban/exemption
+  Onbeteelde grond, tijdelijk: Uncultivated land, temporary
+  Overige akkerbouwgewassen: Other arable crops
+  Overige granen: Other grains
+  Overige natuurterreinen: Other nature areas
+  Raapzaad: Rapeseed
+  Rogge (geen snijrogge): Rye (no cutting rye)
+  Schokkers: Shockers
+  Sojabonen: Soybeans
+  Tagetes (zand, loss) (geen groene braak): Tagetes (sand, loess) (no green fallow)
+  Tarwe, winter-: Wheat, winter
+  Tarwe, zomer-: Wheat, summer
+  Triticale: Triticale
+  Tuinbouwzaden: Horticultural seeds
+  Uien, poot en plant (incl. sjalotten): Onions, leg and plant (incl. shallots)
+  Uien, zaai-: Onions, seed
+  Vlas, vezel- (niet voor zaaizaad): Flax, fiber (not for seed)
+  Vlas, vezel- (voor zaaizaad): Flax, fiber (for seed)
+  Walnoten: Walnuts
+  Woudbomen met korte omlooptijd: Short rotation forest trees
+  Zonnebloemen: Sunflowers
+  Aardappelen, consumptie: Potatoes, consumption
+  Aardappelen, poot NAK: Potatoes, leg nak
+  Aardappelen, poot TBM: Potatoes, leg tbm
+  'Aardappelen, zetmeel ': Potatoes, starch
+  Aardbeien op stellingen, productie: Strawberries on racks, production
+  Aardbeien op stellingen, vermeerdering: Strawberries on racks, propagation
+  Aardbeien op stellingen, wachtbed: Strawberries on racks, waiting bed
+  Aardbeien op stellingen, zaden en opkweekmateriaal: Strawberries on racks, seeds
+    and propagation material
+  Aardbeien open grond, productie: Strawberries open ground, production
+  Aardbeien open grond, vermeerdering: Strawberries open ground, propagation
+  Aardbeien open grond, wachtbed: Strawberry open ground, waiting bed
+  Aardbeien open grond, zaden en opkweekmateriaal: Strawberries open ground, seeds
+    and propagation material
+  Agrarisch natuurmengsel: Agricultural nature mixture
+  Amaryllis, bloembollen en -knollen: Amaryllis, flower bulbs and tubers
+  Andijvie, productie: Endive, production
+  Andijvie, zaden en opkweekmateriaal: Endive, seeds and propagation material
+  Angelica, productie: Angelica, production
+  Appelen. Aangeplant lopende seizoen.: Apples. planted current season.
+  Appelen. Aangeplant voorafgaande aan lopende seizoen.: Apples. planted prior to
+    current season.
+  Asperges, oppervlakte die nog geen productie oplevert: Asparagus, area that does
+    not yet yield production
+  Asperges, oppervlakte die productie oplevert: Asparagus, area yielding production
+  Asperges, zaden en opkweekmateriaal: Asparagus, seeds and propagation material
+  Augurk, productie: Pickle, production
+  Augurk, zaden en opkweekmateriaal: Pickle, seeds and propagation material
+  Bessen, blauwe: Berries, blue
+  Bessen, rode: Berries, red
+  Bessen, zwarte (opbrengst verwerkt voor verwerkende industrie): Berries, black (yield
+    processed for processing industry)
+  Bladkool: Cabbage leaf
+  Bladraap: Turnip
+  Bladrammenas: Fodder radish
+  Blauw druifje, bloembollen en -knollen: Grape hyacinth, flower bulbs and tubers
+  Blauw druifje, droogbloemen: Blue grape, dried flowers
+  Blauw druifje, overige bloemkwekerijgewassen: Grape hyacinth, other flower nursery
+    crops
+  Bloemkool, winter, productie: Cauliflower, winter, production
+  Bloemkool, winter, zaden en opkweekmateriaal: Cauliflower, winter, seeds and propagation
+    material
+  Bloemkool, zomer, productie: Cauliflower, summer, production
+  Bloemkool, zomer, zaden en opkweekmateriaal: Cauliflower, summer, seeds and growing
+    material
+  Bloemzaden open grond: Flower seeds open ground
+  Boerenkool, productie: Kale, production
+  Bonen, bruine-: Beans, brown
+  'Bonen, veld- (onder andere duiven-, paarden-, wierbonen) ': Beans, field (including
+    pigeon, horse, seaweed beans)
+  Bos zonder herplantplicht: Forest without obligation to replant
+  Bos- en haagplanten, open grond,: Forest and hedge plants, open ground,
+  Bos- en haagplanten, pot- en containerveld,: Forest and hedge plants, pot and container
+    field,
+  Bospeen, productie: Carrot, production
+  Bospeen, zaden en opkweekmateriaal: Carrots, seeds and propagation material
+  Bramen: Blackberries
+  Broccoli, productie: Broccoli, production
+  Brocolli, zaden en opkweekmateriaal: Brocolli, seeds and growing material
+  Bufferstrook, rand (inclusief eventuele oevervegetatie): Buffer strip, edge (including
+    any riparian vegetation)
+  Buxus, open grond,: Boxwood, open ground,
+  Buxus, pot- en containerveld,: Boxwood, pot and container field,
+  Chinese kool, productie: Chinese cabbage, production
+  Chinese kool, zaden en opkweekmateriaal: Chinese cabbage, seeds and propagation
+    material
+  Chrysant, overige bloemkwekerijgewassen: Chrysanthemum, other flower nursery crops
+  Courgette, productie: Zucchini, production
+  Courgette, zaden en opkweekmateriaal: Zucchini, seeds and propagation material
+  Cranberry: Cranberry
+  Dahlia, bloembollen en - knollen: Dahlia, flower bulbs and tubers
+  Dahlia, overige bloemkwekerijgewassen: Dahlia, other flower nursery crops
+  Deder: Deder
+  Drachtplanten: Pregnant plants
+  Echinacea (zonnehoed), productie: Echinacea (coneflower), production
+  Engels raaigras: Perennial ryegrass
+  Ericaceae (Zoals erica, calluna, rododendron, azalea), open grond,: Ericaceae (like
+    erica, calluna, rhododendron, azalea), open ground,
+  Ericaceae (Zoals erica, calluna, rododendron, azalea), pot- en containerveld,: Ericaceae
+    (like erica, calluna, rhododendron, azalea), pot and container field,
+  Erwten (droog te oogsten): Peas (to harvest dry)
+  Erwten, groene/gele (groen te oogsten): Peas, green/yellow (green to be harvested)
+  Esparcette: Esparcette
+  Ethiopische mosterd: Ethiopian mustard
+  Facelia: Facelia
+  Festulolium: Festulolium
+  Frambozen: Raspberries
+  Franse boekweit: French buckwheat
+  Gele mosterd: Yellow mustard
+  Gladiool, bloembollen en - knollen: Gladiolus, flower bulbs and tubers
+  Gladiool, droogbloemen: Gladiolus, dried flowers
+  Gladiool, overige bloemkwekerijgewassen: Gladiolus, other flower nursery crops
+  Goudsbloem: Marigold
+  Grasland, natuurlijk. Hoofdfunctie landbouw.: Grassland, of course. main function
+    agriculture.
+  Grasland, natuurlijk. Hoofdfunctie natuur.: Grassland, of course. main function
+    nature.
+  Graszaad: Grass seed
+  Hop: Hop
+  Hyacint, bloembollen en - knollen: Hyacinth, flower bulbs and tubers
+  Hyacint, overige bloemkwekerijgewassen: Hyacinth, other flower nursery crops
+  Igniscum Candy: Igniscum candy
+  Iris, Bolvormend: Iris, spherical
+  Iris, Rhizoomvormend: Iris, rhizomatous
+  Iris, overige bloemkwekerijgewassen: Iris, other flower nursery crops
+  Italiaans raaigras: Italian ryegrass
+  Japanse haver: Japanese oats
+  Kersen, zoet: Cherries, sweet
+  Kersen, zuur (opbrengst bestemd voor verwerkende industrie): Cherries, acid (yield
+    intended for processing industry)
+  Kerstbomen: Christmas trees
+  Klaver, Alexandrijnse: Clover, alexandrian
+  Klaver, Perzische: Clover, persian
+  Klaver, incarnaat: Clover, incarnate
+  Klaver, rode: Clover, red
+  Klaver, witte: Clover, white
+  Knoflook: Garlic
+  Knolselderij, productie: Celeriac, production
+  Knolselderij, zaden en opkweekmateriaal: Celeriac, seeds and propagation material
+  Knolvenkel/venkel, productie: Fennel/fennel, production
+  Knolvenkel/venkel, zaden en opkweekmateriaal: Fennel/fennel, seeds and propagation
+    material
+  Komkommer, productie: Cucumber, production
+  Koolraap, productie: Kohlrabi, production
+  Koolrabi, productie: Kohlrabi, production
+  Koolzaad, winter (incl. boterzaad): Rapeseed, winter (incl. butter seed)
+  Koolzaad, zomer (incl. boterzaad): Rapeseed, summer (incl. butter seed)
+  Krokus, bloembollen en - knollen: Crocus, flower bulbs and tubers
+  Krokus, overige bloemkwekerijgewassen: Crocus, other flower nursery crops
+  Kroten/rode bieten, productie: Beets/red beets, production
+  Kroten/rode bieten, zaden en opkweekmateriaal: Beets/red beets, seeds and propagation
+    material
+  Kruiden, productie: Herbs, production
+  Kruiden, zaden en opkweekmateriaal: Herbs, seeds and propagation material
+  Laanbomen/parkbomen, onderstammen, open grond,: Avenue trees/park trees, rootstocks,
+    open ground,
+  Laanbomen/parkbomen, onderstammen, pot- en containerveld,: Avenue trees/park trees,
+    rootstocks, pot and container fields,
+  Laanbomen/parkbomen, opzetters, open grond,: Avenue trees/park trees, erectors,
+    open ground,
+  Laanbomen/parkbomen, opzetters, pot- en containerveld,: Avenue trees/park trees,
+    erectors, pot and container fields,
+  Laanbomen/parkbomen, spillen, open grond,: Avenue trees/park trees, spindles, open
+    ground,
+  Laanbomen/parkbomen, spillen, pot- en containerveld,: Avenue trees/park trees, spindles,
+    pot and container fields,
+  Lavas (Maggiplant), productie: Lovage (maggiplant), production
+  Leeuwenbekjes: Snapdragons
+  Lelie, bloembollen en -knollen: Lily, flower bulbs and tubers
+  Lelie, overige bloemkwekerijgewassen: Lily, other flower nursery crops
+  Lisdodde: Bulrush
+  Lupinen, niet bittere: Lupins, not bitter
+  Maiskolvesilage: Corn silage
+  Maïs, energie-: Corn, energy
+  Meekrap: Madder
+  Naaldaar (Setaria): Needle (setaria)
+  Narcis, bloembollen en -knollen: Narcissus, flower bulbs and tubers
+  Narcis, overige bloemkwekerijgewassen: Narcissus, other flower nursery crops
+  Natuurterreinen (incl. heide): Natural areas (incl. heath)
+  Notenbomen: Walnut trees
+  Onbeteelde grond vanwege een teeltverbod/ontheffing: Uncultivated land due to a
+    cultivation ban/exemption
+  Overig kleinfruit (zoals kruisbessen, kiwi's): Other small fruit (such as gooseberries,
+    kiwis)
+  Overige bloemen, bloembollen en -knollen: Other flowers, bulbs and tubers
+  Overige bloemen, droogbloemen: Other flowers, dried flowers
+  Overige bloemen, overige bloemkwekerijgewassen: Other flowers, other flower nursery
+    crops
+  Overige groenbemesters, niet-vlinderbloemige-: Other green manures, non-butterfly-
+  'Overige groenbemesters, vlinderbloemige- ': Other green manures, leguminous plants
+  Overige niet genoemde bladgewassen, productie: Other leaf crops not mentioned, production
+  Overige niet genoemde bladgewassen, zaden en opkweekmateriaal: Other not mentioned
+    leaf crops, seeds and propagation material
+  Overige niet genoemde groenten, productie: Other vegetables not mentioned, production
+  Overige niet genoemde groenten, zaden en opkweekmateriaal: Other vegetables, seeds
+    and propagation material not mentioned
+  Overige pit- en steenvruchten (zoals perziken, tafeldruiven): Other pome and stone
+    fruits (such as peaches, table grapes)
+  Paksoi, productie: Bok choy, production
+  Palmen, pot- en containervelden: Palms, pot and container fields
+  Papaver: Poppy
+  Pastinaak, productie: Parsnip, production
+  Pastinaak, zaden en opkweekmateriaal: Parsnips, seeds and propagation material
+  Peren. Aangeplant lopende seizoen.: Pears. planted current season.
+  Peren. Aangeplant voorafgaande aan lopende seizoen.: Pears. planted prior to current
+    season.
+  Peterselie, productie: Parsley, production
+  Peulen, productie: Pods, production
+  Peulen, zaden en opkweekmateriaal: Pods, seeds and propagation material
+  Pioenroos, droogbloemen: Peony, dried flowers
+  Pioenroos, overige bloemkwekerijgewassen: Peony, other flower nursery crops
+  Pioenroos, vermeerdering: Peony, propagation
+  Pompoen, productie: Pumpkin, production
+  Pompoen, zaden en opkweekmateriaal: Pumpkin, seeds and propagation material
+  Prei, winter, productie: Leek, winter, production
+  Prei, winter, zaden en opkweekmateriaal: Leek, winter, seeds and propagation material
+  Prei, zomer, productie: Leek, summer, production
+  Prei, zomer, zaden en opkweekmateriaal: Leek, summer, seeds and propagation material
+  Pronkbonen, productie: Runner beans, production
+  Pronkbonen, zaden en opkweekmateriaal: Runner beans, seeds and propagation material
+  Pruimen: Plums
+  Quinoa: Quinoa
+  Raapstelen, productie: Turnip greens, production
+  Raapstelen, zaden en opkweekmateriaal: Turnip greens, seeds and propagation material
+  Rabarber, productie: Rhubarb, production
+  Rabarber, zaden en opkweekmateriaal: Rhubarb, seeds and propagation material
+  Radijs, productie: Radish, production
+  Radijs, zaden en opkweekmateriaal: Radish, seeds and propagation material
+  Raketblad (aaltjesvanggewas): Rocket leaf (nematode catch crop)
+  Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit blijvend gras: Border,
+    adjacent to permanent grassland or a permanent crop, consisting mainly of permanent
+    grass
+  Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit een ander gewas dan gras: Border,
+    adjacent to permanent pasture or permanent crop, consisting mainly of a crop other
+    than grass
+  Rand, grenzend aan blijvend grasland of een blijvende teelt, hoofdzakelijk bestaand uit tijdelijk gras: Border,
+    adjacent to permanent pasture or a permanent crop, consisting mainly of temporary
+    grass
+  Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit blijvend gras: Edge, adjacent
+    to arable land, consisting mainly of permanent grass
+  'Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras. (EA: beheer)': 'Border,
+    adjacent to arable land, consisting mainly of a crop other than grass. (ea: management)'
+  'Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit een ander gewas dan gras. (EA: onbeheerd)': 'Border,
+    adjacent to arable land, consisting mainly of a crop other than grass. (ea: unattended)'
+  Rand, grenzend aan bouwland, hoofdzakelijk bestaand uit tijdelijk gras: Edge, adjacent
+    to arable land, consisting mainly of temporary grass
+  Rand, liggend op bouwland en direct grenzend aan bos. Geen landbouwproductie.: Edge,
+    lying on arable land and directly adjacent to forest. no agricultural production.
+  Riet: Reed
+  Rietzwenkgras, anders dan voor industriegras: Reed fescue, other than for industrial
+    grass
+  Rietzwenkgras, industriegras: Reed fescue, industrial grass
+  Rodekool, productie: Red cabbage, production
+  Rolklaver: Scroll clover
+  Roodzwenkgras: Red fescue
+  Rozenstruiken (incl, zaailingen en onderstammen), open grond,: Rose bushes (incl,
+    seedlings and rootstocks), open ground,
+  Rozenstruiken (incl, zaailingen en onderstammen), pot- en containerveld,: Rose bushes
+    (incl, seedlings and rootstocks), pot and container field,
+  Saffloer: Safflower
+  Sarepta mosterd/Caliente: Sarepta mustard/caliente
+  Savooiekool, productie: Savoy cabbage, production
+  Savooiekool, zaden en opkweekmateriaal: Savoy cabbage, seeds and propagation material
+  Schorseneren, zaden en opkweekmateriaal: Salsify, seeds and propagation material
+  Schorseneren; productie: Salsify; production
+  Selderij, bleek- en groen-, productie: Celery, bleach and green, production
+  Selderij, bleek- en groen-, zaden en opkweekmateriaal: Celery, bleach and greens,
+    seeds and propagation material
+  Sierconiferen, open grond,: Ornamental conifers, open ground,
+  Sierconiferen, pot- en containerveld,: Ornamental conifers, pot and container field,
+  Sierheesters en klimplanten, open grond,: Ornamental shrubs and creepers, open ground,
+  Sierheesters en klimplanten, pot- en containerveld,: Ornamental shrubs and climbing
+    plants, pot and container field,
+  Sierui, bloembollen en -knollen: Ornamental onions, flower bulbs and tubers
+  Sierui, overige bloemkwekerijgewassen: Ornamental onions, other flower nursery crops
+  Sjalotten: Shallots
+  Sla, ijsberg-, productie: Lettuce, iceberg, production
+  Sla, ijsberg-, zaden en opkweekmateriaal: Lettuce, iceberg, seeds and propagation
+    material
+  Sla; overig, productie: Lettuce; other, production
+  Sla; overig, zaden en opkweekmateriaal: Lettuce; other, seeds and propagation material
+  Sla; radicchio rosso, productie: Lettuce; radicchio rosso, production
+  Sla; radicchio rosso, zaden en opkweekmateriaal: Lettuce; radicchio rosso, seeds
+    and propagation material
+  Sloot, grenzend aan beheerde akkerrand: Ditch, adjacent to managed field edge
+  Snijgroen: Cut green
+  Soedangras/Sorghum: Sudan grass/sorghum
+  Spelt: Spelt #from Spells
+  Spinazie, productie: Spinach, production
+  Spinazie, zaden en opkweekmateriaal: Spinach, seeds and propagation material
+  Spitskool, productie: Pointed cabbage, production
+  Spitskool, zaden en opkweekmateriaal: Pointed cabbage, seeds and propagation material
+  Spruitkool/spruitjes, productie: Brussels sprouts, production
+  Spruitkool/spruitjes, zaden en opkweekmateriaal: Brussels sprouts/brussels sprouts,
+    seeds and propagation material
+  Stamsperziebonen (=stamslabonen), productie: Main green beans (= main green beans),
+    production
+  Stamsperziebonen (=stamslabonen), zaden en opkweekmateriaal: Main green beans (=
+    main green beans), seeds and propagation material
+  Stoksnijbonen en stokslabonen, productie: French french beans and french green beans,
+    production
+  Stoksnijbonen en stokslabonen, zaden en opkweekmateriaal: French haricot beans and
+    french green beans, seeds and propagating material
+  Stoppelknollen: Stubble tubers
+  Tagetes erecta (Afrikaantje): Tagetes erecta (marigold)
+  Tagetes patula (Afrikaantje): Tagetes patula (tagetes)
+  Teff: Teff
+  Teunisbloem: Evening primrose
+  Tijdelijk onbeteelde grond, anders dan voor publieke werken: Temporary uncultivated
+    land, other than for public works
+  Tijdelijk onbeteelde grond, i.v.m. publieke werken: Temporarily uncultivated land,
+    due to public works
+  Timothee: Timothy
+  Trek- en besheesters, open grond,: Draft and berry shrubs, open ground,
+  Trek- en besheesters, pot- en containerveld,: Tensile and berry shrubs, pot and
+    container field,
+  Tulp, bloembollen en -knollen: Tulip, flower bulbs and tubers
+  Tulp, overige bloemkwekerijgewassen: Tulip, other flower nursery crops
+  Uien poot en plant eerstejaars: Onions leg and plant freshmen
+  Uien poot en plant tweedejaars: Onions leg and plant second year
+  Uien, zilver-: Onions, silver
+  Valeriaan, productie: Valerian, production
+  Valeriaan, zaden en opkweekmateriaal: Valerian, seeds and propagation material
+  Vaste planten, open grond,: Perennials, open ground,
+  Vaste planten, pot- en containerteelt,: Perennials, pot and container cultivation,
+  Veldbeemdgras: Field meadow grass
+  'Vergeet mij nietje ': Forget me not
+  Vlas, olie-. Lijnzaad niet van vezelvlas: Flax, oil. linseed not from fiber flax
+  Vlas, vezel-: Flax, fiber
+  Voedselbos: Food forest
+  Vrouwenmantel: Lady's mantle
+  Vruchtbomen, moerbomen, open grond,: Fruit trees, nut trees, open ground,
+  Vruchtbomen, moerbomen, pot- en containerveld,: Fruit trees, nut trees, pot and
+    container fields,
+  Vruchtbomen, onderstammen, open grond,: Fruit trees, rootstocks, open ground,
+  Vruchtbomen, onderstammen, pot- en containerveld,: Fruit trees, rootstocks, pot
+    and container fields,
+  Vruchtbomen, overig, open grond,: Fruit trees, other, open ground,
+  Vruchtbomen, overig, pot- en containerveld,: Fruit trees, other, pot and container
+    field,
+  Waspeen, productie: Waspacifier, production
+  Waspeen, zaden en opkweekmateriaal: Waspacifier, seeds and propagation material
+  Westerwolds raaigras: Westerwolds ryegrass
+  Wijndruiven: Wine grapes
+  Wikke, bonte: Vetch, variegated
+  Wikke, voeder-: Vetch, feed
+  Wilde marjolein (Oregano), productie: Wild marjoram (oregano), production
+  Wilgenhakhout: Willow coppice
+  Winterpeen, productie: Carrot, production
+  Winterpeen, zaden en opkweekmateriaal: Winter carrots, seeds and propagation material
+  Witlofwortel, productie: Chicory root, production
+  Witlofwortel, zaden en opkweekmateriaal: Chicory root, seeds and propagation material
+  Witte kool, productie: White cabbage, production
+  Witte kool, zaden en opkweekmateriaal: White cabbage, seeds and propagation material
+  Wortelpeterselie: Carrot parsley
+  Woudbomen met korte omlooptijd (excl. Wilgenhakhout): Short rotation forest trees
+    (excl. willow coppice)
+  Zantedeschia, bloembollen en -knollen: Zantedeschia, flower bulbs and tubers
+  Zantedeschia, overige bloemkwekerijgewassen: Zantedeschia, other flower nursery
+    crops
+  Zonnekroon: Sun crown
+  Zwarte mosterd: Black mustard

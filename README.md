@@ -36,7 +36,7 @@ Link: https://doi.org/10.5281/zenodo.7892012
 ## Minio S3 Bucket
 
 Endpoint:
-* ~~https://s3-3.services.tselea.info.uvt.ro~~
+* ~~https://s3-3.services.tselea.info.uvt.ro~~ (updated on the 4th of June 2023)
 * https://s3-4.services.tselea.info.uvt.ro (updated on the 7th of March 2024)
 
 Bucket name: `agrisen-cog-v1`

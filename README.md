@@ -23,12 +23,25 @@ Link: https://www.dropbox.com/sh/5bc55skio0o5xd7/AAAQVG3ZmVGFNvPiltQ9Esqma?dl=0
 - `AgriSen-COG/`: Contains the dataset
   - `intermediate_outputs/`: Contains the intermediate outputs of dataset preparation.
     - `output1_1_original_lpis/`: Contains the original LPIS for each AOI: Austria (2019, 2020), Belgium (2019, 2020), Catalonia(2019, 2020), Denmark (2019, 2020), Netherlands (2019, 2020).
-
+    - `output1_2_lpis_gpkg/`: Contains the original LPIS for each AOI: Austria (2019, 2020), Belgium (2019, 2020), Catalonia(2019, 2020), Denmark (2019, 2020), Netherlands (2019, 2020).
+`
 ## Zenodo
 
 Link: https://doi.org/10.5281/zenodo.7892012
 
 - `output1_1_original_lpis.zip`: Contains the original LPIS for each AOI: Austria (2019, 2020), Belgium (2019, 2020), Catalonia(2019, 2020), Denmark (2019, 2020), Netherlands (2019, 2020).
+- `output1_2_lpis_gpkg.zip`: Contains the original LPIS for each AOI: Austria (2019, 2020), Belgium (2019, 2020), Catalonia(2019, 2020), Denmark (2019, 2020), Netherlands (2019, 2020).
+
+
+## Minio S3 Bucket
+
+Endpoint:
+* ~~https://s3-3.services.tselea.info.uvt.ro~~
+* https://s3-4.services.tselea.info.uvt.ro (updated on the 7th of March 2024)
+
+Bucket name: `agrisen-cog-v1`
+
+Set anonymous access for download.
 
 ## If you use our code, please cite:
 

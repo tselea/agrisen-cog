@@ -54,7 +54,7 @@ Set *anonymous* access.
 ## Hands-on Tutorials <a name="notebooks"></a>
 
 In the `notebooks` folder we provide an overview of the following tasks:
-* **OriginalLPISView.ipynb** - Visualize the original LPIS data as gpkg (local files) and Parquet (local and S3).
+* **OriginalLPISView.ipynb** - View the original LPIS data as gpkg (local files) and Parquet (local and S3).
 
 ## If you use our code, please cite:
 

@@ -4,7 +4,7 @@
 1. [Introduction](#introduction)
 3. [Dataset](#data)
 4. [Hands-on Tutorials](#notebooks)
-4. [Getting Started!](#getstarted)
+4. [Project's Overview](#project)
 5. [Model Weights](#model_weights)
 6. [Acknowledgements](#acknowledgements)
 
@@ -27,7 +27,7 @@ Link: https://www.dropbox.com/sh/5bc55skio0o5xd7/AAAQVG3ZmVGFNvPiltQ9Esqma?dl=0
     - `output1_1_original_lpis/`: Contains the original LPIS.
     - `output1_2_lpis_gpkg/`: Contains the original LPIS as GPKG.
     - `output1_2_lpis_parquet/`: Contains the original LPIS as partioned Parquet files.
-
+    - `output1_3_lpis_en/`: Contains the english version of each LPIS as partitioned Parquet.
 ### Zenodo
 
 Link: https://doi.org/10.5281/zenodo.7892012
@@ -35,7 +35,7 @@ Link: https://doi.org/10.5281/zenodo.7892012
 - `output1_1_original_lpis.zip`: Contains the original LPIS.
 - `output1_2_lpis_gpkg.zip`: Contains the original LPIS as GPKG.
 - `output1_2_lpis_parquet.zip`: Contains the original LPIS as partioned Parquet files.
-
+- `output1_3_lpis_en.zip`: Contains the english version of each LPIS as partitioned Parquet.
 ### Minio S3 Bucket
 
 Endpoint:
@@ -47,14 +47,21 @@ Bucket name: `agrisen-cog-v1`
 Set *anonymous* access.
 
 - `agrisen-cog-v1/`:
-  - `LPIS_processing`:
+  - `LPIS_processing/`:
     - `original_files/`: Contains the original LPIS as partioned Parquet files.
-
+    - `en_files/`: Contains the english version of each LPIS as partitioned Parquet.
 
 ## Hands-on Tutorials <a name="notebooks"></a>
 
 In the `notebooks` folder we provide an overview of the following tasks:
 * **OriginalLPISView.ipynb** - View the original LPIS data as gpkg (local files) and Parquet (local and S3).
+* **EnLPISView.ipynb** - View the english and standardized LPIS data as partioned Parquet (S3 reading example).
+
+## Project's Overview <a name="project"></a>
+
+Each package contains usage examples.
+
+- `lpis_processing`: Package for the lpis data processing.
 
 ## If you use our code, please cite:
 

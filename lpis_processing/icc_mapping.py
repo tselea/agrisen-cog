@@ -20,98 +20,6 @@ LPIS_ICC_DIR = Path('lpis_files/icc_codes')
 MIN_HA = 0.1
 
 
-@icc_dispatcher.register('get_crop_type')
-def get_crop_type(input_file, input_dir, output_file, is_s3, aoi, years):
-    file_list = [input_file] if input_file else []
-    if input_dir:
-        for year in set(years):
-            file_pattern = f'{input_dir}/{aoi}{year}.parquet'
-            if file_pattern not in file_list:
-                file_list.append(file_pattern)
-
-    crops_list = []
-    for file_path in file_list:
-        lpis_dgpd = read_parquet(file_path, is_s3, key, secret, endpoint_url)
-        crops_list.extend(list(lpis_dgpd['crop_type'].unique()))
-
-    crops_list = set(crops_list)
-    mapping_dir = {crop: '' for crop in crops_list}
-
-    with open(output_file, 'w') as file:
-        yaml.dump(mapping_dir, file, allow_unicode=True, encoding='utf-8')
-
-
-def load_icc():
-    with open(ICC_FILE, 'r') as file:
-        icc = yaml.load(file, Loader=yaml.FullLoader)
-    G = nx.DiGraph()
-    for i in icc:
-        G.add_node(i)
-        for c, group in enumerate(icc[i]):
-            G.add_node(group, code=str(c + 1), level='group')
-            G.add_edge(i, group)
-            for cc, class_name in enumerate(icc[i][group]):
-                class_name_str = class_name
-                if type(class_name) == dict:
-                    class_name_str = list(class_name.keys())[0]
-
-                G.add_node(class_name_str, code=f'{c + 1}{cc + 1}', level='class')
-                G.add_edge(group, class_name_str)
-
-                if ('n.e.c' in class_name_str) or ('Other crops' in class_name_str):
-                    G.nodes[class_name_str]['code'] = f'{c + 1}{9}'
-                if type(class_name) == dict:
-                    for ccc, subclass in enumerate(class_name[class_name_str]):
-                        subclass_name_str = subclass
-
-                        if type(subclass) == dict:
-                            subclass_name_str = list(subclass.keys())[0]
-
-                        code_nr = G.nodes[class_name_str]["code"]
-                        G.add_node(subclass_name_str, code=f'{code_nr}{ccc + 1}', level='subclass')
-                        G.add_edge(class_name_str, subclass_name_str)
-                        if (('Other' in subclass_name_str) and ('n.e.c' in subclass_name_str)) or (
-                                subclass_name_str == "Other" or subclass_name_str == "Other berries"):
-                            G.nodes[subclass_name_str]['code'] = f'{code_nr}{9}'
-
-                        if type(subclass) == dict:
-                            for cccc, order in enumerate(subclass[subclass_name_str]):
-                                code_nr = G.nodes[subclass_name_str]["code"]
-                                G.add_node(order, code=f'{code_nr}{cccc + 1}', level='order')
-                                G.add_edge(subclass_name_str, order)
-
-    # print(G.nodes.data())
-    # print(G.adj)
-    return G
-
-
-@icc_dispatcher.register('generate_icc')
-def generate_icc(input_file, input_dir, output_file, is_s3, aoi, years):
-    icc_graph = load_icc()
-    print(icc_graph.nodes.data())
-
-    with open(input_file, 'r') as file:
-        icc_mapping = yaml.load(file, Loader=yaml.FullLoader)
-    icc_codes = {}
-    for crop_type, icc_value in icc_mapping.items():
-        if not icc_value:
-            continue
-        if not icc_graph.has_node(icc_value):
-            raise Exception(f"The value {icc_value} for {crop_type} is not in the ICC mapping.")
-        paths = list(nx.all_simple_paths(icc_graph, source='ICC', target=icc_value))
-        if crop_type == 'Rapeseed':
-            print(paths)
-        if len(paths) > 1:
-            raise Exception("Multiple paths for the value {icc_value} for {crop_type} in the ICC mapping.")
-        icc_codes[crop_type] = {}
-        for node in paths[0][1:]:
-            icc_codes[crop_type][icc_graph.nodes[node]['level']] = node
-        icc_codes[crop_type]['code'] = icc_graph.nodes[icc_value]['code']
-
-    with open(output_file, 'w') as file:
-        yaml.dump(icc_codes, file, allow_unicode=True, encoding='utf-8')
-
-
 @icc_dispatcher.register('add_icc_codes')
 def add_icc_codes(input_file, input_dir, output_file, is_s3, aoi, years):
     icc_codes_path = LPIS_ICC_DIR / f'{aoi}_crops.yaml'
@@ -185,8 +93,8 @@ def main():
     parser.add_argument('--year', type=int, default=None, required=False, nargs='+',
                         help='Year/s of the AOI to process.')
     parser.add_argument('--action', type=str, default=None, required=True,
-                        choices=['get_crop_type', 'generate_icc', 'add_icc_codes', 'filter_by_ha'],
-                        help='The action to be performed. One of [\'get_crop_type\', \'generate_icc\', \'add_icc_codes\', \'filter_by_ha\']')
+                        choices=['add_icc_codes', 'filter_by_ha'],
+                        help='The action to be performed. One of [\'add_icc_codes\', \'filter_by_ha\']')
 
     args = parser.parse_args()
 

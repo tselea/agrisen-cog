@@ -28,6 +28,7 @@ Link: https://www.dropbox.com/sh/5bc55skio0o5xd7/AAAQVG3ZmVGFNvPiltQ9Esqma?dl=0
     - `output1_2_lpis_gpkg/`: Contains the original LPIS as GPKG.
     - `output1_2_lpis_parquet/`: Contains the original LPIS as partioned Parquet files.
     - `output1_3_lpis_en/`: Contains the english version of each LPIS as partitioned Parquet.
+    - `output1_4_lpis_icc/`: Contains the ICC code mapped version of each english LPIS as partitioned Parquet.
 ### Zenodo
 
 Link: https://doi.org/10.5281/zenodo.7892012
@@ -36,6 +37,7 @@ Link: https://doi.org/10.5281/zenodo.7892012
 - `output1_2_lpis_gpkg.zip`: Contains the original LPIS as GPKG.
 - `output1_2_lpis_parquet.zip`: Contains the original LPIS as partioned Parquet files.
 - `output1_3_lpis_en.zip`: Contains the english version of each LPIS as partitioned Parquet.
+- `output1_4_lpis_icc.zip`: Contains the ICC code mapped version of each english LPIS as partitioned Parquet.
 ### Minio S3 Bucket
 
 Endpoint:
@@ -50,18 +52,20 @@ Set *anonymous* access.
   - `LPIS_processing/`:
     - `original_files/`: Contains the original LPIS as partioned Parquet files.
     - `en_files/`: Contains the english version of each LPIS as partitioned Parquet.
+    - `icc_en_files/`: Contains the ICC code mapped version of each english LPIS as partitioned Parquet.
 
 ## Hands-on Tutorials <a name="notebooks"></a>
 
 In the `notebooks` folder we provide an overview of the following tasks:
 * **OriginalLPISView.ipynb** - View the original LPIS data as gpkg (local files) and Parquet (local and S3).
 * **EnLPISView.ipynb** - View the english and standardized LPIS data as partioned Parquet (S3 reading example).
+* **ICCLPISView** - View the ICC code mapped version of each english LPIS as partitioned Parquet (S3 reading example).
 
 ## Project's Overview <a name="project"></a>
 
 Each package/directory  contains usage examples.
 
-- `lpis_file`: Directory with multiple LPIS descriptions.
+- `lpis_files`: Directory with multiple LPIS descriptions.
 - `lpis_processing`: Package for the LPIS data processing.
 
 ## If you use our code, please cite:

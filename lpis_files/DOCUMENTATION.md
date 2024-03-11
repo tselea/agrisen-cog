@@ -6,6 +6,7 @@ Detailed documentation for the `lpis_files` directory.
 1. [LPIS Columns](#lpis_columns)
 2. [LPIS Encodings](#encodings)
 3. [LPIS English Translations](#translations)
+4. [ICC Code Mappings](#icc_codes)
 
 ## LPIS Columns <a name="lpis_columns"></a>
 
@@ -67,3 +68,26 @@ crop_type:
   ALFALS NO SIE: Alfals
 ```
 This structure ensures that data from different sources can be aggregated or compared accurately by translating diverse local terminologies into a unified language, facilitating analysis and reporting.
+
+## ICC Code Mappings <a name="icc_codes"></a>
+
+The `icc_codes` directory, contains an iCC code mapping file for each AOI, such as `Austria_crops.yaml`, containing the ICC code mappings for agricultural crop types within LPIS.
+
+### Description Scheme
+- **Crop name**: The name of the crop 
+  - **group**: The corresponding group name as defined in the ICC.
+  - **class**: The corresponding class name as defined in the ICC.
+  - **code**: The numeric ICC code.
+  - **subclass** : The corresponding subclass name as defined in the ICC.
+Based on granularity, some of the above might be missing. 
+
+### Example Entry
+
+```yaml
+Sorghum:
+  class: Sorghum
+  code: '14'
+  group: Cereals
+```
+
+This structure ensures that data is easily mapped onto ICC categories.

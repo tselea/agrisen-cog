@@ -12,18 +12,32 @@ Detailed instructions on how to use the `process_lpis.py` script.
 This script is designed for processing and translating Land Parcel Identification System (LPIS) data. It supports reading input files from local filesystems or S3 buckets, applying column mappings and translations based on specified Area of Interest (AOI) and year, and outputting the processed data to a desired location.
 
 ### Features
-Reads LPIS data from local or S3 sources.
-Applies predefined column mappings and translations.
-Supports output to local or S3 destinations.
-Optional integration with Dask clusters for distributed computing.
+* Reads LPIS data from local or S3 sources.
+* Applies predefined column mappings and translations.
+* Supports output to local or S3 destinations.
+* Optional integration with Dask clusters for distributed computing.
+
+### Functions
+* **generate_translation**: Generates a translation mapping file for specified AOI and year based on the unique values in the specified columns. This function is essential for creating a repository of translated terms which can be reused across multiple datasets.
+
+* **process** : Reads the input LPIS file, applies column mappings and translations using the predefined mappings and translation files, then writes the processed data to the specified output location. This function is the core of the script, facilitating the data preparation phase for further analysis or reporting.
 
 ### Basic Usage
-To run the script, navigate to the script's directory and use the following command format:
 
+Generating Translation Mappings
+To generate translation mappings for an AOI:
+```bash
+python -m lpis_processing.process_lpis --generate_trans <output_translation_file_path> --input_file <input_path> --aoi <AOI> --year <year> --lang_code <code> [options]
+ ```
+
+Processing LPIS Data
+To run the script for processing LPIS data, navigate to the script's directory and use the following command format:
 ```bash
 python -m lpis_processing.process_lpis --input_file <input_path> --output_file <output_path> --aoi <AOI> --year <year> [options]
 
 ```
+
+
 ### Options
 
 - `--connect_cluster <cluster_name>`: Connect to a Dask cluster. Supported clusters: `uvt`, `coiled` (optional).
@@ -38,8 +52,18 @@ python -m lpis_processing.process_lpis --input_file <input_path> --output_file <
 
 
 ### Example Usage
+
+Generating Translation Mappings
+Generate translation mappings for Austria, for the year 2019:
 ```bash
-python -m lpis_processing.process_lpis --connect_cluster uvt --input_file s3://phd-ts/AgriSen-COG/original_lpis/Catalonia/Catalonia2019.parquet/ --output_file s3://phd-ts/AgriSen-COG/en_lpis/Catalonia/Catalonia2019.parquet/ --s3 --aoi Catalonia --year 2019
+python -m lpis_processing.process_lpis --generate_trans path/to/translations/translations_Austria.yaml --input_file s3://agrisen-cog-v1/LPIS_processing/original_files/Austria_2019_distrib.parquet --aoi Austria --year 2019 --lang_code de
+```
+
+Processing LPIS Data
+Process LPIS data for Catalonia, for the year 2019, with translations:
+
+```bash
+python -m lpis_processing.process_lpis --connect_cluster uvt --input_file s3://agrisen-cog-v1/LPIS_processing/original_files/Catalonia/Catalonia_2019_distrib.parquet/ --output_file s3://agrisen-cog-v1/LPIS_processing/en_files/Catalonia_2019_en_distrib.parquet --s3 --aoi Catalonia --year 2019
 
 ```
 

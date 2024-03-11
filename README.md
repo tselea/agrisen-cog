@@ -59,9 +59,10 @@ In the `notebooks` folder we provide an overview of the following tasks:
 
 ## Project's Overview <a name="project"></a>
 
-Each package contains usage examples.
+Each package/directory  contains usage examples.
 
-- `lpis_processing`: Package for the lpis data processing.
+- `lpis_file`: Directory with multiple LPIS descriptions.
+- `lpis_processing`: Package for the LPIS data processing.
 
 ## If you use our code, please cite:
 
